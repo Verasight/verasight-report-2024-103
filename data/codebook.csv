@@ -1,0 +1,606 @@
+question_id,option_id,option_label,is_missing
+2023-071_q17,1,Democratic Party,false
+2023-071_q17,2,Republican Party,false
+2023-071_q17,3,Don’t know,false
+2023-071_q21,1,Democrats,false
+2023-071_q21,2,Hispanics,false
+2023-071_q21,3,None of the above,false
+2023-071_q21,4,Republicans,false
+2023-071_q21,5,Trump Supporters,false
+2023-071_q21,6,Feminists,false
+2023-071_q21,7,Liberals,false
+2023-071_q21,8,Conservatives,false
+2023-071_q21,9,Evangelical Christians,false
+2023-071_q21,10,Whites,false
+2023-071_q21,11,Blacks,false
+2024-006_a82_jackson,1,Abortion is fully banned with no exceptions,false
+2024-006_a82_jackson,2,Abortion is fully banned with few exceptions,false
+2024-006_a82_jackson,3,Abortion is legal very early in pregnancy (up to 6-9 weeks) and illegal after,false
+2024-006_a82_jackson,4,Abortion is legal very early in pregnancy (up to 15-20 weeks) and illegal after,false
+2024-006_a82_jackson,5,Abortion is legal with very few or no restrictions,false
+2024-006_a82_jackson,6,Not sure what the laws in my state are,false
+2024-037_q4,1,Support,false
+2024-037_q4,2,Oppose,false
+2024-037_q4,3,Don’t know,false
+2024-103_educ_pol_1,1,"Culture (movie, music, etc.)",false
+2024-103_educ_pol_1,2,Language,false
+2024-103_educ_pol_1,3,Political system (democracy),false
+2024-103_educ_pol_1,4,Diversity,false
+2024-103_educ_pol_1,5,Economy,false
+2024-103_educ_pol_1,6,Military,false
+2024-103_educ_pol_1,7,Something Else,false
+2024-103_educ_pol_10,1,Kamala Harris,false
+2024-103_educ_pol_10,2,Donald Trump,false
+2024-103_educ_pol_10,3,Someone else,false
+2024-103_educ_pol_11,1,educ_pol_11_1,false
+2024-103_educ_pol_11,2,educ_pol_11_2,false
+2024-103_educ_pol_11,3,educ_pol_11_3,false
+2024-103_educ_pol_11,4,educ_pol_11_4,false
+2024-103_educ_pol_11,5,educ_pol_11_5,false
+2024-103_educ_pol_11,6,educ_pol_11_6,false
+2024-103_educ_pol_11,7,educ_pol_11_7,false
+2024-103_educ_pol_11,8,educ_pol_11_8,false
+2024-103_educ_pol_12,1,Kamala Harris,false
+2024-103_educ_pol_12,2,Donald Trump,false
+2024-103_educ_pol_12,3,Other candidate,false
+2024-103_educ_pol_12,4,None of the above,false
+2024-103_educ_pol_13,1,Strongly Disagree,false
+2024-103_educ_pol_13,2,Disagree,false
+2024-103_educ_pol_13,3,Somewhat Disagree,false
+2024-103_educ_pol_13,4,Neither Disagree nor Agree,false
+2024-103_educ_pol_13,5,Somewhat Agree,false
+2024-103_educ_pol_13,6,Agree,false
+2024-103_educ_pol_13,7,Strongly Agree,false
+2024-103_educ_pol_14,1,Strongly agree,false
+2024-103_educ_pol_14,2,Agree,false
+2024-103_educ_pol_14,3,Disagree,false
+2024-103_educ_pol_14,4,Strongly disagree,false
+2024-103_educ_pol_17,1,Agree with pulling down posters,false
+2024-103_educ_pol_17,2,I oppose people tearing down hostage posters,false
+2024-103_educ_pol_17,3,I don’t care if posters are torn down,false
+2024-103_educ_pol_18,1,Support,false
+2024-103_educ_pol_18,2,Oppose,false
+2024-103_educ_pol_18,3,I don’t know,false
+2024-103_educ_pol_19,1,Strongly disagree,false
+2024-103_educ_pol_19,2,Disagree,false
+2024-103_educ_pol_19,3,Neither agree nor disagree,false
+2024-103_educ_pol_19,4,Agree,false
+2024-103_educ_pol_19,5,Strongly agree,false
+2024-103_educ_pol_2,1,Agree strongly,false
+2024-103_educ_pol_2,2,Agree somewhat,false
+2024-103_educ_pol_2,3,Agree slightly,false
+2024-103_educ_pol_2,4,Disagree slightly,false
+2024-103_educ_pol_2,5,Disagree somewhat,false
+2024-103_educ_pol_2,6,Disagree strongly,false
+2024-103_educ_pol_20,1,Much less likely to support,false
+2024-103_educ_pol_20,2,Less likely to support,false
+2024-103_educ_pol_20,3,Would not affect my support,false
+2024-103_educ_pol_20,4,More likely to support,false
+2024-103_educ_pol_20,5,Much more likely to support,false
+2024-103_educ_pol_21,1,Male,false
+2024-103_educ_pol_21,2,Female,false
+2024-103_educ_pol_21,3,Don’t Know,false
+2024-103_educ_pol_22,1,Strongly agree,false
+2024-103_educ_pol_22,2,Somewhat agree,false
+2024-103_educ_pol_22,3,Neutral,false
+2024-103_educ_pol_22,4,Somewhat disagree,false
+2024-103_educ_pol_22,5,Strongly disagree,false
+2024-103_educ_pol_22,6,Prefer not to answer,false
+2024-103_educ_pol_23,1,The president gives a prime time speech on the steps Americans should take to reduce their carbon footprint.,false
+2024-103_educ_pol_23,2,The president enters into an agreement with other countries to implement a global carbon tax.,false
+2024-103_educ_pol_23,3,"The president uses an executive order to set more stringent fuel standards for vehicles, requiring car manufacturers to increase the fuel efficiency of many of their vehicles.",false
+2024-103_educ_pol_23,4,The president uses an executive order to create a jobs program that would employ 1 million Americans in jobs to make the country’s infrastructure more environmentally sustainable.,false
+2024-103_educ_pol_23,5,The president uses an executive order to mandate that all power in the United States must come from renewable sources by 2050.,false
+2024-103_educ_pol_23,6,The president refuses to implement a law passed by Congress that would significantly increase the country’s carbon emissions.,false
+2024-103_educ_pol_23,7,None of the above,false
+2024-103_educ_pol_24,1,Strongly agree,false
+2024-103_educ_pol_24,2,Agree,false
+2024-103_educ_pol_24,3,Neither agree nor disagree,false
+2024-103_educ_pol_24,4,Disagree,false
+2024-103_educ_pol_24,5,Strongly disagree,false
+2024-103_educ_pol_26,1,The fulfillment of election pledges is preferable when it benefits people like me.,false
+2024-103_educ_pol_26,2,The fulfillment of election pledges is preferable when it provides for the good of society as a whole.,false
+2024-103_educ_pol_27,1,Strongly disagree,false
+2024-103_educ_pol_27,2,Disagree,false
+2024-103_educ_pol_27,3,Neutral,false
+2024-103_educ_pol_27,4,Agree,false
+2024-103_educ_pol_27,5,Strongly agree,false
+2024-103_educ_pol_28,1,0 - Absolutely Wrong,false
+2024-103_educ_pol_28,2,1,false
+2024-103_educ_pol_28,3,2,false
+2024-103_educ_pol_28,4,3,false
+2024-103_educ_pol_28,5,4,false
+2024-103_educ_pol_28,6,5,false
+2024-103_educ_pol_28,7,6,false
+2024-103_educ_pol_28,8,7,false
+2024-103_educ_pol_28,9,8,false
+2024-103_educ_pol_28,10,9,false
+2024-103_educ_pol_28,11,10 - Absolutely Right,false
+2024-103_educ_pol_3,1,"Yes, stopped in the street or while driving",false
+2024-103_educ_pol_3,2,"Yes, arrested",false
+2024-103_educ_pol_3,3,"Yes, incarcerated (prison or jail)",false
+2024-103_educ_pol_3,4,"Yes, detained in some other way",false
+2024-103_educ_pol_3,5,"No, none of these",false
+2024-103_educ_pol_4,1,Very satisfied,false
+2024-103_educ_pol_4,2,Somewhat satisfied,false
+2024-103_educ_pol_4,3,Neither satisfied or disatisfied,false
+2024-103_educ_pol_4,4,Somewhat disatisfied,false
+2024-103_educ_pol_4,5,Very disatisfied,false
+2024-103_educ_pol_5,1,The police,false
+2024-103_educ_pol_5,2,The victim of the crime,false
+2024-103_educ_pol_5,3,The prosecutor,false
+2024-103_educ_pol_5,4,The grand jury,false
+2024-103_educ_pol_5,5,The judge,false
+2024-103_educ_pol_5,6,Someone else,false
+2024-103_educ_pol_5,7,I don't know,false
+2024-103_educ_pol_6,1,Strongly support,false
+2024-103_educ_pol_6,2,Somewhat support,false
+2024-103_educ_pol_6,3,Somewhat oppose,false
+2024-103_educ_pol_6,4,Strongly oppose,false
+2024-103_educ_pol_6,5,Don’t know,false
+2024-103_educ_pol_7,1,Extremely relieved,false
+2024-103_educ_pol_7,2,Very relieved,false
+2024-103_educ_pol_7,3,Somewhat relieved,false
+2024-103_educ_pol_7,4,A little relieved,false
+2024-103_educ_pol_7,5,Not at all relieved,false
+2024-103_educ_pol_8,1,The police,false
+2024-103_educ_pol_8,2,The victim of the crime,false
+2024-103_educ_pol_8,3,The prosecutor,false
+2024-103_educ_pol_8,4,The grand jury,false
+2024-103_educ_pol_8,5,The judge,false
+2024-103_educ_pol_8,6,Someone else,false
+2024-103_educ_pol_8,7,I don't know,false
+2024-103_educ_pol_9,1,Strongly dislike,false
+2024-103_educ_pol_9,2,Moderately dislike,false
+2024-103_educ_pol_9,3,Somewhat dislike,false
+2024-103_educ_pol_9,4,Slightly dislike,false
+2024-103_educ_pol_9,5,Do not dislike,false
+2024-103_educ_pol_9,6,I do not know,false
+2024-103_media_fin_1,1,media_fin_1_1,false
+2024-103_media_fin_1,2,media_fin_1_2,false
+2024-103_media_fin_10,1,Very satisfied,false
+2024-103_media_fin_10,2,Somewhat satisfied,false
+2024-103_media_fin_10,3,Not very satisfied,false
+2024-103_media_fin_10,4,Not at all satisfied,false
+2024-103_media_fin_10,5,None of the above,false
+2024-103_media_fin_11,1,None,false
+2024-103_media_fin_11,2,1,false
+2024-103_media_fin_11,3,2-3,false
+2024-103_media_fin_11,4,4-6,false
+2024-103_media_fin_11,5,7+,false
+2024-103_media_fin_11,6,Prefer not to say,false
+2024-103_media_fin_12,1,Strongly Agree,false
+2024-103_media_fin_12,2,Somewhat Agree,false
+2024-103_media_fin_12,3,Somewhat Disagree,false
+2024-103_media_fin_12,4,Strongly Disagree,false
+2024-103_media_fin_12,5,None of the Above,false
+2024-103_media_fin_13,1,Rural areas,false
+2024-103_media_fin_13,2,Small towns,false
+2024-103_media_fin_13,3,Suburbs,false
+2024-103_media_fin_13,4,Cities,false
+2024-103_media_fin_14,1,Very good,false
+2024-103_media_fin_14,2,Good,false
+2024-103_media_fin_14,3,Neither good nor bad,false
+2024-103_media_fin_14,4,Bad,false
+2024-103_media_fin_14,5,Very bad,false
+2024-103_media_fin_14,6,Do not understand the question,false
+2024-103_media_fin_14,7,Do not wish to disclose,false
+2024-103_media_fin_15,1,People should always get plastic surgery if they feel it would improve their appearance,false
+2024-103_media_fin_15,2,People should never get plastic surgery if they only want it to improve their appearance,false
+2024-103_media_fin_15,3,Somewhere in between,false
+2024-103_media_fin_15,4,Not sure,false
+2024-103_media_fin_16,1,Has a graduate degree but is in the bottom 25% of the income distribution,false
+2024-103_media_fin_16,2,Does not have a college degree but is in the top 25% of the income distribution,false
+2024-103_media_fin_17,1,China,false
+2024-103_media_fin_17,2,United States,false
+2024-103_media_fin_17,3,Japan,false
+2024-103_media_fin_17,4,Other,false
+2024-103_media_fin_18,1,"Yes, for all users",false
+2024-103_media_fin_18,2,"Yes, for some people",false
+2024-103_media_fin_18,3,Only for the undisciplined,false
+2024-103_media_fin_18,4,No,false
+2024-103_media_fin_18,5,I don’t know,false
+2024-103_media_fin_19,1,My local news is struggling to survive financially.,false
+2024-103_media_fin_19,2,Local news is doing just fine financially.,false
+2024-103_media_fin_2,1,Agree Strongly,false
+2024-103_media_fin_2,2,Agree Somewhat,false
+2024-103_media_fin_2,3,Agree slightly,false
+2024-103_media_fin_2,4,Disagree slightly,false
+2024-103_media_fin_2,5,Disagree somewhat,false
+2024-103_media_fin_2,6,Disagree strongly,false
+2024-103_media_fin_20,1,A great deal of influence,false
+2024-103_media_fin_20,2,Some influence,false
+2024-103_media_fin_20,3,A little bit of influence,false
+2024-103_media_fin_20,4,No influence at all,false
+2024-103_media_fin_21,1,0- Society has not gone far enough,false
+2024-103_media_fin_21,2,1,false
+2024-103_media_fin_21,3,2,false
+2024-103_media_fin_21,4,3,false
+2024-103_media_fin_21,5,4,false
+2024-103_media_fin_21,6,5,false
+2024-103_media_fin_21,7,6- Society has gone too far,false
+2024-103_media_fin_23,1,The Mayor,false
+2024-103_media_fin_23,2,The City Council,false
+2024-103_media_fin_23,3,Taxpayers,false
+2024-103_media_fin_23,4,Public employees,false
+2024-103_media_fin_23,5,Creditors/bondholders,false
+2024-103_media_fin_23,6,County/State government,false
+2024-103_media_fin_24,1,1- Not at all,false
+2024-103_media_fin_24,2,2- A little bit,false
+2024-103_media_fin_24,3,3- Moderately,false
+2024-103_media_fin_24,4,4- A lot,false
+2024-103_media_fin_25,1,Not at all,false
+2024-103_media_fin_25,2,Slightly,false
+2024-103_media_fin_25,3,Moderately,false
+2024-103_media_fin_25,4,Very,false
+2024-103_media_fin_25,5,Extremly,false
+2024-103_media_fin_26,1,Strongly disagree,false
+2024-103_media_fin_26,2,Disagree,false
+2024-103_media_fin_26,3,Somewhat disagree,false
+2024-103_media_fin_26,4,Neither disagree or agree,false
+2024-103_media_fin_26,5,Somewhat agree,false
+2024-103_media_fin_26,6,Agree,false
+2024-103_media_fin_26,7,Strongly agree,false
+2024-103_media_fin_27,1,Strongly agree,false
+2024-103_media_fin_27,2,Somewhat agree,false
+2024-103_media_fin_27,3,Neither agree nor disagree,false
+2024-103_media_fin_27,4,Somewhat disagree,false
+2024-103_media_fin_27,5,Strongly disagree,false
+2024-103_media_fin_27,6,Don’t know,false
+2024-103_media_fin_27,7,No answer,false
+2024-103_media_fin_28,1,0 - Not confidence at all,false
+2024-103_media_fin_28,2,1,false
+2024-103_media_fin_28,3,2,false
+2024-103_media_fin_28,4,3,false
+2024-103_media_fin_28,5,4,false
+2024-103_media_fin_28,6,5 - Extreme confidence,false
+2024-103_media_fin_29,1,Greatly improved but became dependent on partner,false
+2024-103_media_fin_29,2,Greatly improved and maintained independence,false
+2024-103_media_fin_29,3,Somewhat improved but became dependent on your partner,false
+2024-103_media_fin_29,4,Somewhat improved and maintained independence,false
+2024-103_media_fin_29,5,No change,false
+2024-103_media_fin_29,6,Worsened and became dependent on partner,false
+2024-103_media_fin_29,7,"Worsened, and maintained independence",false
+2024-103_media_fin_3,1,"Yes, all of it",false
+2024-103_media_fin_3,2,"Yes, some of it",false
+2024-103_media_fin_3,3,No,false
+2024-103_media_fin_3,4,I did not receive a state-published voter guide,false
+2024-103_media_fin_30,1,Strongly Agree,false
+2024-103_media_fin_30,2,Agree,false
+2024-103_media_fin_30,3,Disagree,false
+2024-103_media_fin_30,4,Strongly Disagree,false
+2024-103_media_fin_30,5,I have never played video games,false
+2024-103_media_fin_31,1,Strongly agree,false
+2024-103_media_fin_31,2,Somewhat agree,false
+2024-103_media_fin_31,3,Neither agree nor disagree,false
+2024-103_media_fin_31,4,Somewhat disagree,false
+2024-103_media_fin_31,5,Strongly disagree,false
+2024-103_media_fin_32,1,$10,false
+2024-103_media_fin_32,2,$20,false
+2024-103_media_fin_32,3,$30,false
+2024-103_media_fin_32,4,More than $30,false
+2024-103_media_fin_32,5,I would not do this for any amount,false
+2024-103_media_fin_32,6,I do not use TikTok,false
+2024-103_media_fin_33,1,Children ought to be seen and not heard.,false
+2024-103_media_fin_33,2,It is better to be feared than loved.,false
+2024-103_media_fin_33,3,Don’t judge a book by its cover.,false
+2024-103_media_fin_33,4,"If it ain’t broke, don’t fix it.",false
+2024-103_media_fin_33,5,Slow and steady wins the race.,false
+2024-103_media_fin_33,6,"You can lead a horse to water, but you can’t make it drink.",false
+2024-103_media_fin_33,7,None of these apply.,false
+2024-103_media_fin_34,1,(0) Strongly think U.S. embassies should not display the rainbow flag,false
+2024-103_media_fin_34,2,1,false
+2024-103_media_fin_34,3,2,false
+2024-103_media_fin_34,4,(3) Neutral,false
+2024-103_media_fin_34,5,4,false
+2024-103_media_fin_34,6,5,false
+2024-103_media_fin_34,7,(6) Strongly think U.S. embassies should display the rainbow flag,false
+2024-103_media_fin_35,1,Strongly Agree,false
+2024-103_media_fin_35,2,Somewhat Agree,false
+2024-103_media_fin_35,3,Neither Agree nor Disagree,false
+2024-103_media_fin_35,4,Somewhat Disagree,false
+2024-103_media_fin_35,5,Strongly Disagree,false
+2024-103_media_fin_36,1,"Important to be first, even if increased spending is required",false
+2024-103_media_fin_36,2,"Important to be first, but not worth increased spending",false
+2024-103_media_fin_36,3,Not very important to be first,false
+2024-103_media_fin_36,4,The U.S. should not send astronauts to the Moon at all,false
+2024-103_media_fin_37,1,Not at all confident in the sources of money,false
+2024-103_media_fin_37,2,Somewhat confident in the sources of money,false
+2024-103_media_fin_37,3,Confident in the sources of money,false
+2024-103_media_fin_37,4,Very confident in the sources of money,false
+2024-103_media_fin_38,1,The Marvel universe (the MCU).,false
+2024-103_media_fin_38,2,The D.C. universe.,false
+2024-103_media_fin_38,3,"Role playing video games, such as The Last of Us, Undertale, Red Dead Redemption, etc.",false
+2024-103_media_fin_38,4,"First person shooter video games, such as Call of Duty, Halo, CSGO, GTA, etc.",false
+2024-103_media_fin_38,5,"Other video games, such as Mario Kart, Minecraft, etc.",false
+2024-103_media_fin_38,6,Taylor Swift.,false
+2024-103_media_fin_38,7,Musicians other than Taylor Swift.,false
+2024-103_media_fin_38,8,None of the above.,false
+2024-103_media_fin_4,1,Less than 50 years,false
+2024-103_media_fin_4,2,50-60 years,false
+2024-103_media_fin_4,3,60-70 years,false
+2024-103_media_fin_4,4,70-80 years,false
+2024-103_media_fin_4,5,80-90 years,false
+2024-103_media_fin_4,6,More than 90 years,false
+2024-103_media_fin_4,7,I don't know,false
+2024-103_media_fin_41,1,Strongly oppose,false
+2024-103_media_fin_41,2,Oppose,false
+2024-103_media_fin_41,3,Somewhat Oppose,false
+2024-103_media_fin_41,4,Neither oppose nor support,false
+2024-103_media_fin_41,5,Somewhat Support,false
+2024-103_media_fin_41,6,Support,false
+2024-103_media_fin_41,7,Strongly Support,false
+2024-103_media_fin_5,1,I’m scared that AI might take my job,false
+2024-103_media_fin_5,2,I think AI is useful,false
+2024-103_media_fin_5,3,I want to learn more about AI for my profession,false
+2024-103_media_fin_5,4,I have ethical concerns using AI for my job,false
+2024-103_media_fin_5,5,None of the above,false
+2024-103_media_fin_6,1,Positive,false
+2024-103_media_fin_6,2,Negative,false
+2024-103_media_fin_6,3,Neutral,false
+2024-103_media_fin_6,4,Don’t know,false
+2024-103_media_fin_6,5,Prefer not to say,false
+2024-103_media_fin_7,1,Coal,false
+2024-103_media_fin_7,2,Gas/Oil,false
+2024-103_media_fin_7,3,Solar,false
+2024-103_media_fin_7,4,Wind,false
+2024-103_media_fin_7,5,Nuclear,false
+2024-103_media_fin_7,6,Hydro-electricity (Dams),false
+2024-103_media_fin_7,7,None of the above,false
+2024-103_media_fin_9,1,Very poorly,false
+2024-103_media_fin_9,2,Poorly,false
+2024-103_media_fin_9,3,Well,false
+2024-103_media_fin_9,4,Very well,false
+2024-103_pol_10,1,An excellent job,false
+2024-103_pol_10,2,A good job,false
+2024-103_pol_10,3,A fair job,false
+2024-103_pol_10,4,A poor job,false
+2024-103_pol_11,1,At the door (canvassing),false
+2024-103_pol_11,2,By a phone call,false
+2024-103_pol_11,3,By text or email,false
+2024-103_pol_11,4,By direct mail,false
+2024-103_pol_11,5,Through a social media advertisement,false
+2024-103_pol_11,6,Through some other method,false
+2024-103_pol_11,7,I have not been contacted by a campaign or party,false
+2024-103_pol_12,1,"Yes, regularly",false
+2024-103_pol_12,2,"Yes, occasionally",false
+2024-103_pol_12,3,"Yes, at least once",false
+2024-103_pol_12,4,"No, but I have considered doing so regularly",false
+2024-103_pol_12,5,"No, but I have considered doing so occasionally",false
+2024-103_pol_12,6,"No, but I have considered doing so at least once",false
+2024-103_pol_12,7,"No, and I have never considered doing so.",false
+2024-103_pol_13,1,Extremely uncomfortable,false
+2024-103_pol_13,2,A little uncomfortable,false
+2024-103_pol_13,3,Mixed feelings,false
+2024-103_pol_13,4,Mostly comfortable,false
+2024-103_pol_13,5,Totally comfortable,false
+2024-103_pol_14,1,US citizens aged 16-17,false
+2024-103_pol_14,2,US citizens aged 14-15,false
+2024-103_pol_14,3,Non-citizen adults who are lawful permanent residents of the United States who have applied for US citizenship,false
+2024-103_pol_14,4,Non-citizen adults who are lawful permanent residents of the United States who have not applied for US citizenship,false
+2024-103_pol_14,5,"All adults who reside in the United States, regardless of immigration status, who have resided in the US for at least 5 years",false
+2024-103_pol_14,6,"All adults who reside in the United States, regardless of their immigration status or the amount of time they have lived in the US",false
+2024-103_pol_14,7,None of the groups listed above.,false
+2024-103_pol_15,1,Strongly agree,false
+2024-103_pol_15,2,Somewhat agree,false
+2024-103_pol_15,3,Neither agree nor disagree,false
+2024-103_pol_15,4,Somewhat disagree,false
+2024-103_pol_15,5,Strongly disagree,false
+2024-103_pol_15,6,Don’t know,false
+2024-103_pol_15,7,No answer,false
+2024-103_pol_16_1,0,,false
+2024-103_pol_16_1,1,,false
+2024-103_pol_16_1,2,,false
+2024-103_pol_16_1,3,,false
+2024-103_pol_16_1,4,,false
+2024-103_pol_16_1,5,,false
+2024-103_pol_16_1,6,,false
+2024-103_pol_16_1,7,,false
+2024-103_pol_16_1,8,,false
+2024-103_pol_16_1,9,,false
+2024-103_pol_16_1,10,,false
+2024-103_pol_17,1,Very Important,false
+2024-103_pol_17,2,Important,false
+2024-103_pol_17,3,Somewhat Important,false
+2024-103_pol_17,4,Not Important,false
+2024-103_pol_17,5,Not Sure,false
+2024-103_pol_18,1,Strongly Agree,false
+2024-103_pol_18,2,Agree,false
+2024-103_pol_18,3,Slightly Agree,false
+2024-103_pol_18,4,Slightly Disagree,false
+2024-103_pol_18,5,Disagree,false
+2024-103_pol_18,6,Strongly Disagree,false
+2024-103_pol_19,1,Not at all,false
+2024-103_pol_19,2,Not very much,false
+2024-103_pol_19,3,Somewhat,false
+2024-103_pol_19,4,A lot,false
+2024-103_pol_19,5,A great deal,false
+2024-103_pol_1_3,0,,false
+2024-103_pol_1_3,1,,false
+2024-103_pol_1_3,2,,false
+2024-103_pol_1_3,3,,false
+2024-103_pol_1_3,4,,false
+2024-103_pol_1_3,5,,false
+2024-103_pol_1_3,6,,false
+2024-103_pol_1_3,7,,false
+2024-103_pol_1_3,8,,false
+2024-103_pol_1_3,9,,false
+2024-103_pol_1_3,10,,false
+2024-103_pol_1_3,11,,false
+2024-103_pol_1_3,12,,false
+2024-103_pol_1_3,13,,false
+2024-103_pol_1_3,14,,false
+2024-103_pol_1_3,15,,false
+2024-103_pol_1_3,16,,false
+2024-103_pol_1_3,17,,false
+2024-103_pol_1_3,18,,false
+2024-103_pol_1_3,19,,false
+2024-103_pol_1_3,20,,false
+2024-103_pol_1_3,21,,false
+2024-103_pol_1_3,22,,false
+2024-103_pol_1_3,23,,false
+2024-103_pol_1_3,24,,false
+2024-103_pol_1_3,25,,false
+2024-103_pol_1_3,26,,false
+2024-103_pol_1_3,27,,false
+2024-103_pol_1_3,28,,false
+2024-103_pol_1_3,29,,false
+2024-103_pol_1_3,30,,false
+2024-103_pol_1_3,31,,false
+2024-103_pol_1_3,32,,false
+2024-103_pol_1_3,33,,false
+2024-103_pol_1_3,34,,false
+2024-103_pol_1_3,35,,false
+2024-103_pol_1_3,36,,false
+2024-103_pol_1_3,37,,false
+2024-103_pol_1_3,38,,false
+2024-103_pol_1_3,39,,false
+2024-103_pol_1_3,40,,false
+2024-103_pol_1_3,41,,false
+2024-103_pol_1_3,42,,false
+2024-103_pol_1_3,43,,false
+2024-103_pol_1_3,44,,false
+2024-103_pol_1_3,45,,false
+2024-103_pol_1_3,46,,false
+2024-103_pol_1_3,47,,false
+2024-103_pol_1_3,48,,false
+2024-103_pol_1_3,49,,false
+2024-103_pol_1_3,50,,false
+2024-103_pol_1_3,51,,false
+2024-103_pol_1_3,52,,false
+2024-103_pol_1_3,53,,false
+2024-103_pol_1_3,54,,false
+2024-103_pol_1_3,55,,false
+2024-103_pol_1_3,56,,false
+2024-103_pol_1_3,57,,false
+2024-103_pol_1_3,58,,false
+2024-103_pol_1_3,59,,false
+2024-103_pol_1_3,60,,false
+2024-103_pol_1_3,62,,false
+2024-103_pol_1_3,63,,false
+2024-103_pol_1_3,64,,false
+2024-103_pol_1_3,65,,false
+2024-103_pol_1_3,67,,false
+2024-103_pol_1_3,68,,false
+2024-103_pol_1_3,70,,false
+2024-103_pol_1_3,71,,false
+2024-103_pol_1_3,72,,false
+2024-103_pol_1_3,74,,false
+2024-103_pol_1_3,75,,false
+2024-103_pol_1_3,76,,false
+2024-103_pol_1_3,79,,false
+2024-103_pol_1_3,80,,false
+2024-103_pol_1_3,81,,false
+2024-103_pol_1_3,84,,false
+2024-103_pol_1_3,86,,false
+2024-103_pol_1_3,90,,false
+2024-103_pol_1_3,100,,false
+2024-103_pol_2,1,Kamala Harris,false
+2024-103_pol_2,2,Donald Trump,false
+2024-103_pol_20,1,Male,false
+2024-103_pol_20,2,Female,false
+2024-103_pol_20,3,Don’t Know,false
+2024-103_pol_21,1,Much more effective,false
+2024-103_pol_21,2,Somewhat more effective,false
+2024-103_pol_21,3,Equally effective,false
+2024-103_pol_21,4,Somewhat less effective,false
+2024-103_pol_21,5,Much less effective,false
+2024-103_pol_22,1,You want to persuade your friend to share your opinion,false
+2024-103_pol_22,2,You think it is important to do your civic duty by discussing politics with others,false
+2024-103_pol_22,3,You are worried your friend will judge you for your opinion,false
+2024-103_pol_22,4,You are worried talking about the election will damage your relationship,false
+2024-103_pol_23,1,You want to persuade your friend to share your opinion,false
+2024-103_pol_23,2,You think it is important to do your civic duty by discussing politics with others,false
+2024-103_pol_23,3,You are worried your friend will judge you for your opinion,false
+2024-103_pol_23,4,You are worried talking about the election will damage your relationship,false
+2024-103_pol_24,1,Male,false
+2024-103_pol_24,2,Female,false
+2024-103_pol_24,3,Don’t Know,false
+2024-103_pol_25_1,1,1,false
+2024-103_pol_25_1,2,2,false
+2024-103_pol_25_1,3,3,false
+2024-103_pol_25_1,4,4,false
+2024-103_pol_25_2,1,1,false
+2024-103_pol_25_2,2,2,false
+2024-103_pol_25_2,3,3,false
+2024-103_pol_25_2,4,4,false
+2024-103_pol_25_3,1,1,false
+2024-103_pol_25_3,2,2,false
+2024-103_pol_25_3,3,3,false
+2024-103_pol_25_3,4,4,false
+2024-103_pol_25_4,1,1,false
+2024-103_pol_25_4,2,2,false
+2024-103_pol_25_4,3,3,false
+2024-103_pol_25_4,4,4,false
+2024-103_pol_26,1,A lot of power,false
+2024-103_pol_26,2,A moderate amount of power,false
+2024-103_pol_26,3,Not a lot of power,false
+2024-103_pol_26,4,No power at all,false
+2024-103_pol_26,5,I have no opinion,false
+2024-103_pol_27,1,Very Likely,false
+2024-103_pol_27,2,Likely,false
+2024-103_pol_27,3,Unlikely,false
+2024-103_pol_27,4,Very Unlikely,false
+2024-103_pol_27,5,Don’t Know,false
+2024-103_pol_28,1,Strongly Disagree,false
+2024-103_pol_28,2,Disagree,false
+2024-103_pol_28,3,Neither agree nor disagree,false
+2024-103_pol_28,4,Agree,false
+2024-103_pol_28,5,Strongly Agree,false
+2024-103_pol_29,1,Very likely,false
+2024-103_pol_29,2,Likely,false
+2024-103_pol_29,3,Neither likely nor unlikely,false
+2024-103_pol_29,4,Unlikely,false
+2024-103_pol_29,5,Very unlikely,false
+2024-103_pol_3,1,Agree strongly,false
+2024-103_pol_3,2,Agree somewhat,false
+2024-103_pol_3,3,Neither agree nor disagree,false
+2024-103_pol_3,4,Disagree somewhat,false
+2024-103_pol_3,5,Disagree strongly,false
+2024-103_pol_30,1,Strongly agree,false
+2024-103_pol_30,2,Somewhat agree,false
+2024-103_pol_30,3,Neither agree nor disagree,false
+2024-103_pol_30,4,Somewhat disagree,false
+2024-103_pol_30,5,Strongly disagree,false
+2024-103_pol_31,1,Yes,false
+2024-103_pol_31,2,No,false
+2024-103_pol_31,3,I don’t know,false
+2024-103_pol_4,1,Yes,false
+2024-103_pol_4,2,No,false
+2024-103_pol_5,1,Yes,false
+2024-103_pol_5,2,No,false
+2024-103_pol_5,3,Don’t know,false
+2024-103_pol_6,1,Yes,false
+2024-103_pol_6,2,No,false
+2024-103_pol_6,3,Can’t recall,false
+2025-026_elections_rg,1,Strongly oppose,false
+2025-026_elections_rg,2,Oppose,false
+2025-026_elections_rg,3,Somewhat oppose,false
+2025-026_elections_rg,4,Neither oppose nor support,false
+2025-026_elections_rg,5,Somewhat support,false
+2025-026_elections_rg,6,Support,false
+2025-026_elections_rg,7,Strongly support,false
+2025-026_policy_33,1,Not at all,false
+2025-026_policy_33,2,Very little,false
+2025-026_policy_33,3,Considerably,false
+2025-026_policy_33,4,To a great extent,false
+2025-119_q56,1,"Yes, a lot",false
+2025-119_q56,2,"Yes, a little",false
+2025-119_q56,3,No,false
+2025-119_q61,1,Would strongly support,false
+2025-119_q61,2,Would somewhat support,false
+2025-119_q61,3,Neutral,false
+2025-119_q61,4,Would somewhat oppose,false
+2025-119_q61,5,Would strongly oppose,false
+2025-119_q61,6,Prefer not to answer,false
+2025-119_q70,1,Low-income countries,false
+2025-119_q70,2,Countries at war,false
+2025-119_q70,3,Countries with good governance,false
+2025-119_q70,4,Countries whose basic cultural and political values are aligned with those of the donor country,false
+2025-119_q70,5,None of the above,false
+2025-119_q75,1,I currently own my home.,false
+2025-119_q75,2,"I currently rent my home, but have owned a home in the past.",false
+2025-119_q75,3,I currently rent my home and have never owned a home.,false
+2025-119_q75,4,"I have another living arrangement (e.g., living with family, student housing, etc.), but have owned a home in the past.",false
+2025-119_q75,5,I have another living arrangement and have never owned a home.,false
+2025-119_q75,6,Prefer not to say.,false

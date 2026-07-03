@@ -1,0 +1,606 @@
+question_id,option_id,option_label,weighted_share,weighted_percent,weighted_n,unweighted_n,is_missing,source_url
+2023-071_q17,1,Democratic Party,0.37566597808712493,37.57,375.6659780871251,399,false,https://verasight-apsa-2023.tiiny.co
+2023-071_q17,2,Republican Party,0.41872264009695326,41.87,418.72264009695346,413,false,https://verasight-apsa-2023.tiiny.co
+2023-071_q17,3,Don’t know,0.20561138181592173,20.56,205.61138181592182,188,false,https://verasight-apsa-2023.tiiny.co
+2023-071_q21,1,Democrats,0.1842559023782118,18.43,184.2559023782125,173,false,https://verasight-apsa-2023.tiiny.co
+2023-071_q21,2,Hispanics,0.07968534965982493,7.97,79.68534965982523,71,false,https://verasight-apsa-2023.tiiny.co
+2023-071_q21,3,None of the above,0.34234475008673815,34.23,342.34475008673945,346,false,https://verasight-apsa-2023.tiiny.co
+2023-071_q21,4,Republicans,0.1418262431762463,14.18,141.82624317624686,153,false,https://verasight-apsa-2023.tiiny.co
+2023-071_q21,5,Trump Supporters,0.3058687015204839,30.59,305.8687015204851,336,false,https://verasight-apsa-2023.tiiny.co
+2023-071_q21,6,Feminists,0.12147712786501069,12.15,121.47712786501116,111,false,https://verasight-apsa-2023.tiiny.co
+2023-071_q21,7,Liberals,0.20144539699441527,20.14,201.44539699441606,185,false,https://verasight-apsa-2023.tiiny.co
+2023-071_q21,8,Conservatives,0.11078959311464631,11.08,110.78959311464673,111,false,https://verasight-apsa-2023.tiiny.co
+2023-071_q21,9,Evangelical Christians,0.16058984132585674,16.06,160.58984132585735,187,false,https://verasight-apsa-2023.tiiny.co
+2023-071_q21,10,Whites,0.04295849887469735,4.3,42.95849887469751,41,false,https://verasight-apsa-2023.tiiny.co
+2023-071_q21,11,Blacks,0.06750907162992953,6.75,67.50907162992979,60,false,https://verasight-apsa-2023.tiiny.co
+2024-006_a82_jackson,1,Abortion is fully banned with no exceptions,0.10096267887948315,10.1,100.96267887948319,97,false,https://reports.verasight.io/reports/verasight-interdisciplinary-omnibus-survey-2024-006#to-the-best-of-your-knowledge-what-is-the-legal-status-of-abortion-in-your-state-as-of-today
+2024-006_a82_jackson,2,Abortion is fully banned with few exceptions,0.1418130655422657,14.18,141.81306554226575,147,false,https://reports.verasight.io/reports/verasight-interdisciplinary-omnibus-survey-2024-006#to-the-best-of-your-knowledge-what-is-the-legal-status-of-abortion-in-your-state-as-of-today
+2024-006_a82_jackson,3,Abortion is legal very early in pregnancy (up to 6-9 weeks) and illegal after,0.13604877439147567,13.6,136.04877439147572,143,false,https://reports.verasight.io/reports/verasight-interdisciplinary-omnibus-survey-2024-006#to-the-best-of-your-knowledge-what-is-the-legal-status-of-abortion-in-your-state-as-of-today
+2024-006_a82_jackson,4,Abortion is legal very early in pregnancy (up to 15-20 weeks) and illegal after,0.10774767028590798,10.77,107.74767028590803,110,false,https://reports.verasight.io/reports/verasight-interdisciplinary-omnibus-survey-2024-006#to-the-best-of-your-knowledge-what-is-the-legal-status-of-abortion-in-your-state-as-of-today
+2024-006_a82_jackson,5,Abortion is legal with very few or no restrictions,0.2733991888410677,27.34,273.3991888410678,289,false,https://reports.verasight.io/reports/verasight-interdisciplinary-omnibus-survey-2024-006#to-the-best-of-your-knowledge-what-is-the-legal-status-of-abortion-in-your-state-as-of-today
+2024-006_a82_jackson,6,Not sure what the laws in my state are,0.2400286220597997,24,240.0286220597998,214,false,https://reports.verasight.io/reports/verasight-interdisciplinary-omnibus-survey-2024-006#to-the-best-of-your-knowledge-what-is-the-legal-status-of-abortion-in-your-state-as-of-today
+2024-037_q4,1,Support,0.30750704136636825,30.75,307.50704136636824,292,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q4,2,Oppose,0.44908103525827164,44.91,449.08103525827164,479,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q4,3,Don’t know,0.24341192337536016,24.34,243.41192337536017,229,false,https://verasight-mpsa-2024.tiiny.co
+2024-103_educ_pol_1,1,"Culture (movie, music, etc.)",0.2110969930140502,21.11,211.09699301405018,196,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_1,2,Language,0.02933009103442842,2.93,29.33009103442842,22,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_1,3,Political system (democracy),0.11924402687296441,11.92,119.24402687296441,133,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_1,4,Diversity,0.2151289277075799,21.51,215.12892770757992,230,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_1,5,Economy,0.05266368479863503,5.27,52.66368479863503,58,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_1,6,Military,0.2172312974590229,21.72,217.2312974590229,208,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_1,7,Something Else,0.15530497911331917,15.53,155.30497911331918,153,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_10,1,Kamala Harris,0.4779472933951947,47.79,477.9472933951947,516,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_10,2,Donald Trump,0.46537786989432994,46.54,465.37786989432993,444,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_10,3,Someone else,0.05667483671047543,5.67,56.674836710475425,40,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_11,1,educ_pol_11_1,0.17608376465750292,17.61,176.0837646575029,199,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_11,2,educ_pol_11_2,0.0670222706410172,6.7,67.0222706410172,77,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_11,3,educ_pol_11_3,0.0895268906038713,8.95,89.5268906038713,104,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_11,4,educ_pol_11_4,0.08049893904683184,8.05,80.49893904683184,84,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_11,5,educ_pol_11_5,0.05299804413043973,5.3,52.99804413043973,58,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_11,6,educ_pol_11_6,0.1100957822019583,11.01,110.0957822019583,111,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_11,7,educ_pol_11_7,0.1844010543592138,18.44,184.40105435921382,206,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_11,8,educ_pol_11_8,0.2910425869699032,29.1,291.0425869699032,216,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_12,1,Kamala Harris,0.4606406057056495,46.06,460.64060570564953,499,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_12,2,Donald Trump,0.4567000302561736,45.67,456.7000302561736,431,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_12,3,Other candidate,0.007474823669276025,0.75,7.474823669276025,6,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_12,4,None of the above,0.07518454036890092,7.52,75.18454036890091,64,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_13,1,Strongly Disagree,0.02673558712106808,2.67,26.735587121068082,24,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_13,2,Disagree,0.04520325625182844,4.52,45.203256251828435,38,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_13,3,Somewhat Disagree,0.06959872362240578,6.96,69.59872362240579,64,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_13,4,Neither Disagree nor Agree,0.15715896487868336,15.72,157.15896487868335,142,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_13,5,Somewhat Agree,0.2603478018122987,26.03,260.3478018122987,271,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_13,6,Agree,0.32765212687614254,32.77,327.6521268761425,347,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_13,7,Strongly Agree,0.11330353943757318,11.33,113.30353943757318,114,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_14,1,Strongly agree,0.3070934955062641,30.71,307.0934955062641,304,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_14,2,Agree,0.377815372788553,37.78,377.81537278855296,354,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_14,3,Disagree,0.23452161062714677,23.45,234.52161062714677,251,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_14,4,Strongly disagree,0.08056952107803621,8.06,80.5695210780362,91,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_17,1,Agree with pulling down posters,0.05420858467469368,5.42,54.20858467469368,54,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_17,2,I oppose people tearing down hostage posters,0.6391734323835482,63.92,639.1734323835482,663,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_17,3,I don’t care if posters are torn down,0.3066179829417582,30.66,306.61798294175816,283,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_18,1,Support,0.3683549550002004,36.84,368.3549550002004,357,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_18,2,Oppose,0.28759519467605466,28.76,287.59519467605463,307,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_18,3,I don’t know,0.344049850323745,34.4,344.04985032374503,336,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_19,1,Strongly disagree,0.2528809272275044,25.29,252.8809272275044,265,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_19,2,Disagree,0.22152530693161854,22.15,221.52530693161853,230,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_19,3,Neither agree nor disagree,0.36883469673942726,36.88,368.8346967394273,352,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_19,4,Agree,0.11462516898596446,11.46,114.62516898596446,118,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_19,5,Strongly agree,0.04213390011548537,4.21,42.133900115485375,35,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_2,1,Agree strongly,0.08264963728717943,8.26,82.64963728717943,66,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_2,2,Agree somewhat,0.1020765798502866,10.21,102.0765798502866,102,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_2,3,Agree slightly,0.2166903763472699,21.67,216.6903763472699,194,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_2,4,Disagree slightly,0.12264692273689048,12.26,122.64692273689049,124,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_2,5,Disagree somewhat,0.1563970464685414,15.64,156.39704646854142,167,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_2,6,Disagree strongly,0.3195394373098322,31.95,319.5394373098322,347,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_20,1,Much less likely to support,0.1717608648377555,17.18,171.7608648377555,176,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_20,2,Less likely to support,0.10149876612745325,10.15,101.49876612745325,100,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_20,3,Would not affect my support,0.5794810759791523,57.95,579.4810759791524,583,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_20,4,More likely to support,0.11294968745448607,11.29,112.94968745448607,107,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_20,5,Much more likely to support,0.03430960560115287,3.43,34.30960560115287,34,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_21,1,Male,0.09922785578247818,9.92,99.22785578247819,90,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_21,2,Female,0.6244295877548696,62.44,624.4295877548695,640,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_21,3,Don’t Know,0.2763425564626523,27.63,276.34255646265234,270,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_22,1,Strongly agree,0.0760483651030882,7.6,76.0483651030882,74,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_22,2,Somewhat agree,0.15138904769132042,15.14,151.38904769132043,156,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_22,3,Neutral,0.314105351824465,31.41,314.10535182446495,293,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_22,4,Somewhat disagree,0.20641674762336037,20.64,206.41674762336038,218,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_22,5,Strongly disagree,0.22752388113334404,22.75,227.52388113334405,239,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_22,6,Prefer not to answer,0.02451660662442205,2.45,24.51660662442205,20,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_23,1,The president gives a prime time speech on the steps Americans should take to reduce their carbon footprint.,0.22536694847714192,22.54,225.36694847714193,243,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_23,2,The president enters into an agreement with other countries to implement a global carbon tax.,0.2337152400536605,23.37,233.71524005366052,247,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_23,3,"The president uses an executive order to set more stringent fuel standards for vehicles, requiring car manufacturers to increase the fuel efficiency of many of their vehicles.",0.26210415147716587,26.21,262.1041514771659,282,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_23,4,The president uses an executive order to create a jobs program that would employ 1 million Americans in jobs to make the country’s infrastructure more environmentally sustainable.,0.36628798957565667,36.63,366.2879895756567,386,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_23,5,The president uses an executive order to mandate that all power in the United States must come from renewable sources by 2050.,0.21863141835065966,21.86,218.63141835065966,225,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_23,6,The president refuses to implement a law passed by Congress that would significantly increase the country’s carbon emissions.,0.19683030737916443,19.68,196.83030737916442,207,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_23,7,None of the above,0.3245950203870372,32.46,324.5950203870372,299,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_24,1,Strongly agree,0.3475463350974744,34.75,347.5463350974744,370,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_24,2,Agree,0.27015609515715133,27.02,270.15609515715136,278,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_24,3,Neither agree nor disagree,0.20910556824220813,20.91,209.10556824220814,187,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_24,4,Disagree,0.10573756460999667,10.57,105.73756460999667,101,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_24,5,Strongly disagree,0.0674544368931695,6.75,67.4544368931695,64,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_26,1,The fulfillment of election pledges is preferable when it benefits people like me.,0.1874310646025988,18.74,187.4310646025988,178,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_26,2,The fulfillment of election pledges is preferable when it provides for the good of society as a whole.,0.8125689353974013,81.26,812.5689353974012,822,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_27,1,Strongly disagree,0.10242182839187612,10.24,102.42182839187612,102,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_27,2,Disagree,0.12652877988243535,12.65,126.52877988243534,134,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_27,3,Neutral,0.36352628271216747,36.35,363.5262827121675,342,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_27,4,Agree,0.2827819349813793,28.28,282.7819349813793,293,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_27,5,Strongly agree,0.1247411740321418,12.47,124.7411740321418,129,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_28,1,0 - Absolutely Wrong,0.07900250572098091,7.9,79.00250572098092,76,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_28,2,1,0.016817116004611332,1.68,16.817116004611332,17,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_28,3,2,0.02943286348395363,2.94,29.432863483953632,31,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_28,4,3,0.03424484407524636,3.42,34.24484407524636,32,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_28,5,4,0.06405296749576928,6.41,64.05296749576928,62,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_28,6,5,0.35377642232397805,35.38,353.77642232397807,338,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_28,7,6,0.08976743463795828,8.98,89.76743463795827,90,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_28,8,7,0.11055684211288486,11.06,110.55684211288485,109,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_28,9,8,0.08186022613397743,8.19,81.86022613397743,95,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_28,10,9,0.030232311346507373,3.02,30.232311346507373,33,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_28,11,10 - Absolutely Right,0.11025646666413254,11.03,110.25646666413253,117,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_3,1,"Yes, stopped in the street or while driving",0.29439171123936037,29.44,294.39171123936035,313,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_3,2,"Yes, arrested",0.18489343434749025,18.49,184.89343434749026,175,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_3,3,"Yes, incarcerated (prison or jail)",0.09873979325717791,9.87,98.73979325717791,96,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_3,4,"Yes, detained in some other way",0.0654853037026715,6.55,65.4853037026715,66,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_3,5,"No, none of these",0.5351737818535601,53.52,535.1737818535602,528,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_4,1,Very satisfied,0.3136746312565739,31.37,313.6746312565739,326,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_4,2,Somewhat satisfied,0.31433661116209216,31.43,314.33661116209214,329,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_4,3,Neither satisfied or disatisfied,0.23345196126036633,23.35,233.45196126036632,220,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_4,4,Somewhat disatisfied,0.07679935233470617,7.68,76.79935233470617,73,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_4,5,Very disatisfied,0.06173744398626152,6.17,61.73744398626152,52,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_5,1,The police,0.0677185296559911,6.77,67.71852965599109,62,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_5,2,The victim of the crime,0.06061601132765215,6.06,60.61601132765215,61,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_5,3,The prosecutor,0.31430716250082735,31.43,314.30716250082736,347,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_5,4,The grand jury,0.06617660545781044,6.62,66.17660545781044,68,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_5,5,The judge,0.24205516213403933,24.21,242.05516213403934,218,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_5,6,Someone else,0.006459687823290062,0.65,6.4596878232900625,6,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_5,7,I don't know,0.2426668411003896,24.27,242.6668411003896,238,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_6,1,Strongly support,0.4032420478975096,40.32,403.2420478975096,433,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_6,2,Somewhat support,0.24999637911079325,25,249.99637911079324,244,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_6,3,Somewhat oppose,0.07941783056310016,7.94,79.41783056310015,83,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_6,4,Strongly oppose,0.12660356854817337,12.66,126.60356854817337,124,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_6,5,Don’t know,0.14074017388042367,14.07,140.74017388042367,116,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_7,1,Extremely relieved,0.3260030416375729,32.6,326.0030416375729,322,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_7,2,Very relieved,0.18616795631732427,18.62,186.16795631732427,192,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_7,3,Somewhat relieved,0.19558786965301825,19.56,195.58786965301826,194,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_7,4,A little relieved,0.15153182666151435,15.15,151.53182666151434,154,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_7,5,Not at all relieved,0.1407093057305703,14.07,140.7093057305703,138,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_8,1,The police,0.007090538578133999,0.71,7.090538578134,6,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_8,2,The victim of the crime,0.015789673636795457,1.58,15.789673636795456,15,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_8,3,The prosecutor,0.45107618899611895,45.11,451.07618899611896,480,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_8,4,The grand jury,0.04037850561901429,4.04,40.37850561901429,38,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_8,5,The judge,0.20241124029689342,20.24,202.41124029689342,193,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_8,6,Someone else,0.016688340942575618,1.67,16.688340942575618,13,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_8,7,I don't know,0.2665655119304683,26.66,266.5655119304683,255,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_9,1,Strongly dislike,0.0392944369567985,3.93,39.2944369567985,42,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_9,2,Moderately dislike,0.05789595581548152,5.79,57.89595581548152,67,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_9,3,Somewhat dislike,0.11361141903052295,11.36,113.61141903052295,110,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_9,4,Slightly dislike,0.13457943680380768,13.46,134.57943680380768,131,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_9,5,Do not dislike,0.5630219198653783,56.3,563.0219198653783,569,false,https://verasight-apsa-2024.tiiny.co
+2024-103_educ_pol_9,6,I do not know,0.09159683152801103,9.16,91.59683152801102,81,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_1,1,media_fin_1_1,0.032916678441876034,3.29,32.91667844187616,34,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_1,2,media_fin_1_2,0.05602481653045475,5.6,56.02481653045496,53,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_10,1,Very satisfied,0.42901805782804775,42.9,429.0180578280494,428,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_10,2,Somewhat satisfied,0.3234495686647844,32.34,323.44956866478566,337,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_10,3,Not very satisfied,0.16639580434362525,16.64,166.39580434362588,156,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_10,4,Not at all satisfied,0.06680288319790686,6.68,66.80288319790712,67,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_10,5,None of the above,0.014333685965635678,1.43,14.333685965635734,12,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_11,1,None,0.07390652966459312,7.39,73.9065296645934,64,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_11,2,1,0.13490144216145866,13.49,134.9014421614592,129,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_11,3,2-3,0.42001156429311715,42,420.0115642931188,410,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_11,4,4-6,0.25490531189468796,25.49,254.90531189468896,270,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_11,5,7+,0.10250306479166818,10.25,102.50306479166858,112,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_11,6,Prefer not to say,0.013772087194474878,1.38,13.772087194474931,15,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_12,1,Strongly Agree,0.22074663396543262,22.07,220.74663396543346,204,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_12,2,Somewhat Agree,0.39477698518355464,39.48,394.7769851835562,408,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_12,3,Somewhat Disagree,0.15078632425948613,15.08,150.78632425948672,149,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_12,4,Strongly Disagree,0.08173800531002699,8.17,81.7380053100273,80,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_12,5,None of the Above,0.15195205128149958,15.2,151.95205128150016,159,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_13,1,Rural areas,0.22058680768660363,22.06,220.5868076866045,215,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_13,2,Small towns,0.21051474506722215,21.05,210.51474506722298,206,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_13,3,Suburbs,0.3482324038978239,34.82,348.23240389782524,344,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_13,4,Cities,0.22066604334835033,22.07,220.66604334835117,235,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_14,1,Very good,0.12077245499745652,12.08,120.77245499745699,114,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_14,2,Good,0.2942780892349719,29.43,294.27808923497304,309,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_14,3,Neither good nor bad,0.3204712326199597,32.05,320.4712326199609,325,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_14,4,Bad,0.13280719060978224,13.28,132.80719060978277,132,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_14,5,Very bad,0.07475366885493072,7.48,74.753668854931,72,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_14,6,Do not understand the question,0.03610740186743108,3.61,36.10740186743122,30,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_14,7,Do not wish to disclose,0.020809961815467844,2.08,20.809961815467926,18,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_15,1,People should always get plastic surgery if they feel it would improve their appearance,0.112208277902155,11.22,112.20827790215543,118,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_15,2,People should never get plastic surgery if they only want it to improve their appearance,0.24263218929501296,24.26,242.6321892950139,220,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_15,3,Somewhere in between,0.4956986014268536,49.57,495.69860142685553,523,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_15,4,Not sure,0.14946093137597838,14.95,149.46093137597896,139,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_16,1,Has a graduate degree but is in the bottom 25% of the income distribution,0.4395897986351039,43.96,439.5897986351056,446,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_16,2,Does not have a college degree but is in the top 25% of the income distribution,0.5604102013648962,56.04,560.4102013648983,554,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_17,1,China,0.30407786965872935,30.41,304.07786965873055,287,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_17,2,United States,0.3119476481512016,31.19,311.94764815120277,307,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_17,3,Japan,0.3333360351874601,33.33,333.3360351874614,348,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_17,4,Other,0.050638447002608875,5.06,50.63844700260907,58,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_18,1,"Yes, for all users",0.23695095461013096,23.7,236.95095461013187,232,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_18,2,"Yes, for some people",0.5535400858272327,55.35,553.5400858272349,564,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_18,3,Only for the undisciplined,0.119547146531247,11.95,119.54714653124746,114,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_18,4,No,0.04930443483953388,4.93,49.304434839534075,50,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_18,5,I don’t know,0.040657378191855366,4.07,40.65737819185552,40,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_19,1,My local news is struggling to survive financially.,0.29699820356859985,29.7,296.998203568601,307,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_19,2,Local news is doing just fine financially.,0.7030017964314,70.3,703.0017964314028,693,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_2,1,Agree Strongly,0.07213485718311326,7.21,72.13485718311354,65,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_2,2,Agree Somewhat,0.13719438306905818,13.72,137.19438306905872,124,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_2,3,Agree slightly,0.22057483182573118,22.06,220.57483182573202,213,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_2,4,Disagree slightly,0.17264116209165664,17.26,172.64116209165732,163,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_2,5,Disagree somewhat,0.14790135323157785,14.79,147.9013532315784,154,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_2,6,Disagree strongly,0.24955341259886288,24.96,249.55341259886384,281,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_20,1,A great deal of influence,0.2160854144542998,21.61,216.08541445430063,201,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_20,2,Some influence,0.28583810297729734,28.58,285.83810297729843,274,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_20,3,A little bit of influence,0.12586866278957456,12.59,125.86866278957504,124,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_20,4,No influence at all,0.3722078197788283,37.22,372.20781977882973,401,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_21,1,0- Society has not gone far enough,0.16545309293865734,16.55,165.453092938658,167,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_21,2,1,0.05475742008038452,5.48,54.75742008038473,60,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_21,3,2,0.08845151873762352,8.85,88.45151873762387,95,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_21,4,3,0.22036950421341459,22.04,220.36950421341544,235,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_21,5,4,0.10974616081732765,10.97,109.74616081732808,101,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_21,6,5,0.05454362458292141,5.45,54.54362458292162,57,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_21,7,6- Society has gone too far,0.3066786786296709,30.67,306.6786786296721,285,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_23,1,The Mayor,0.14840280766720806,14.84,148.40280766720863,144,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_23,2,The City Council,0.27239808942429594,27.24,272.398089424297,299,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_23,3,Taxpayers,0.036586764623768094,3.66,36.58676462376823,33,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_23,4,Public employees,0.020419957337636456,2.04,20.419957337636536,18,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_23,5,Creditors/bondholders,0.026630474569632006,2.66,26.63047456963211,24,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_23,6,County/State government,0.49556190637745945,49.56,495.56190637746136,482,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_24,1,1- Not at all,0.14854454922751756,14.85,148.54454922751813,142,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_24,2,2- A little bit,0.3813603191122152,38.14,381.36031911221664,388,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_24,3,3- Moderately,0.3507885305348346,35.08,350.78853053483596,347,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_24,4,4- A lot,0.11930660112543266,11.93,119.30660112543312,123,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_25,1,Not at all,0.039589166925275275,3.96,39.58916692527543,38,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_25,2,Slightly,0.09799648141559221,9.8,97.99648141559258,102,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_25,3,Moderately,0.3402809883051271,34.03,340.2809883051284,337,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_25,4,Very,0.3245036154156152,32.45,324.5036154156164,340,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_25,5,Extremly,0.19762974793839022,19.76,197.62974793839098,183,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_26,1,Strongly disagree,0.11125362463613285,11.13,111.25362463613328,120,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_26,2,Disagree,0.10393631076508526,10.39,103.93631076508566,109,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_26,3,Somewhat disagree,0.09014317370405091,9.01,90.14317370405125,94,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_26,4,Neither disagree or agree,0.334015063321874,33.4,334.0150633218753,334,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_26,5,Somewhat agree,0.1765605345636965,17.66,176.5605345636972,172,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_26,6,Agree,0.11387895512358914,11.39,113.87895512358958,110,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_26,7,Strongly agree,0.0702123378855713,7.02,70.21233788557157,61,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_27,1,Strongly agree,0.3053702299368629,30.54,305.3702299368641,284,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_27,2,Somewhat agree,0.19288202234142007,19.29,192.88202234142082,197,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_27,3,Neither agree nor disagree,0.22212904180830764,22.21,222.1290418083085,215,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_27,4,Somewhat disagree,0.10261063415423462,10.26,102.61063415423502,116,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_27,5,Strongly disagree,0.09213965365286496,9.21,92.13965365286532,103,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_27,6,Don’t know,0.05547134015525316,5.55,55.47134015525337,57,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_27,7,No answer,0.029397077951056567,2.94,29.39707795105668,28,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_28,1,0 - Not confidence at all,0.08644914589395754,8.64,86.44914589395788,72,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_28,2,1,0.0681729793459016,6.82,68.17297934590185,62,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_28,3,2,0.18982018332302025,18.98,189.82018332302098,186,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_28,4,3,0.4030901227558254,40.31,403.09012275582694,425,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_28,5,4,0.15132494881334155,15.13,151.32494881334213,157,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_28,6,5 - Extreme confidence,0.10114261986795367,10.11,101.14261986795407,98,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_29,1,Greatly improved but became dependent on partner,0.08573995137841481,8.57,85.73995137841514,91,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_29,2,Greatly improved and maintained independence,0.23797254399170623,23.8,237.97254399170714,241,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_29,3,Somewhat improved but became dependent on your partner,0.1138525097161268,11.39,113.85250971612724,114,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_29,4,Somewhat improved and maintained independence,0.18675096695477067,18.68,186.7509669547714,198,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_29,5,No change,0.2687357201813358,26.87,268.73572018133683,258,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_29,6,Worsened and became dependent on partner,0.05358228086124716,5.36,53.58228086124737,49,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_29,7,"Worsened, and maintained independence",0.053366026916398496,5.34,53.3660269163987,49,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_3,1,"Yes, all of it",0.17392121682358647,17.39,173.92121682358714,170,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_3,2,"Yes, some of it",0.2639840915134909,26.4,263.98409151349193,261,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_3,3,No,0.2629269230572637,26.29,262.9269230572647,260,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_3,4,I did not receive a state-published voter guide,0.2991677686056589,29.92,299.16776860566006,309,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_30,1,Strongly Agree,0.05157569621516739,5.16,51.57569621516759,42,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_30,2,Agree,0.0973925505539999,9.74,97.39255055400027,81,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_30,3,Disagree,0.17575624523474057,17.58,175.75624523474124,160,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_30,4,Strongly Disagree,0.47584475472105464,47.58,475.84475472105646,506,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_30,5,I have never played video games,0.1994307532750375,19.94,199.43075327503828,211,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_31,1,Strongly agree,0.23827546584680107,23.83,238.27546584680198,239,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_31,2,Somewhat agree,0.3237077301130466,32.37,323.70773011304783,324,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_31,3,Neither agree nor disagree,0.30534841257362866,30.53,305.34841257362984,301,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_31,4,Somewhat disagree,0.06224132699716417,6.22,62.241326997164414,67,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_31,5,Strongly disagree,0.07042706446935947,7.04,70.42706446935973,69,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_32,1,$10,0.041330906887895945,4.13,41.330906887896106,33,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_32,2,$20,0.04684181760016742,4.68,46.841817600167595,43,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_32,3,$30,0.07176708155574166,7.18,71.76708155574194,62,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_32,4,More than $30,0.26673555894281636,26.67,266.7355589428174,264,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_32,5,I would not do this for any amount,0.22442054461171257,22.44,224.42054461171344,219,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_32,6,I do not use TikTok,0.34890409040166603,34.89,348.90409040166736,379,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_33,1,Children ought to be seen and not heard.,0.09227278128029386,9.23,92.27278128029421,87,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_33,2,It is better to be feared than loved.,0.07527578460596317,7.53,75.27578460596345,63,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_33,3,Don’t judge a book by its cover.,0.6031493450208975,60.31,603.1493450208998,631,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_33,4,"If it ain’t broke, don’t fix it.",0.41062494947461614,41.06,410.6249494746177,409,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_33,5,Slow and steady wins the race.,0.4074225636214941,40.74,407.42256362149567,428,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_33,6,"You can lead a horse to water, but you can’t make it drink.",0.47905876410327886,47.91,479.0587641032807,489,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_33,7,None of these apply.,0.07070440124245801,7.07,70.70440124245829,72,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_34,1,(0) Strongly think U.S. embassies should not display the rainbow flag,0.32720607434124893,32.72,327.2060743412502,313,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_34,2,1,0.024385233472506374,2.44,24.385233472506467,27,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_34,3,2,0.034832681367337096,3.48,34.83268136733723,34,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_34,4,(3) Neutral,0.3864297240478467,38.64,386.4297240478482,391,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_34,5,4,0.06092639003861212,6.09,60.926390038612354,60,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_34,6,5,0.044118433835191775,4.41,44.118433835191944,42,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_34,7,(6) Strongly think U.S. embassies should display the rainbow flag,0.12210146289725701,12.21,122.10146289725749,133,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_35,1,Strongly Agree,0.11543279020690538,11.54,115.43279020690582,111,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_35,2,Somewhat Agree,0.28868263883700623,28.87,288.68263883700735,302,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_35,3,Neither Agree nor Disagree,0.40585808266621326,40.59,405.85808266621484,392,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_35,4,Somewhat Disagree,0.10449092608370733,10.45,104.49092608370773,113,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_35,5,Strongly Disagree,0.08553556220616777,8.55,85.53556220616811,82,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_36,1,"Important to be first, even if increased spending is required",0.1711797936312655,17.12,171.17979363126616,174,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_36,2,"Important to be first, but not worth increased spending",0.31467321309023694,31.47,314.67321309023816,305,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_36,3,Not very important to be first,0.41663873094508486,41.66,416.6387309450865,421,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_36,4,The U.S. should not send astronauts to the Moon at all,0.0975082623334127,9.75,97.50826233341307,100,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_37,1,Not at all confident in the sources of money,0.5090758313884339,50.91,509.0758313884359,531,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_37,2,Somewhat confident in the sources of money,0.33252493695619706,33.25,332.52493695619836,321,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_37,3,Confident in the sources of money,0.11907342675487131,11.91,119.07342675487178,111,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_37,4,Very confident in the sources of money,0.039325804900497634,3.93,39.325804900497786,37,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_38,1,The Marvel universe (the MCU).,0.2314826474242797,23.15,231.4826474242806,221,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_38,2,The D.C. universe.,0.1398795396816602,13.99,139.87953968166073,140,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_38,3,"Role playing video games, such as The Last of Us, Undertale, Red Dead Redemption, etc.",0.18091231588557147,18.09,180.91231588557216,165,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_38,4,"First person shooter video games, such as Call of Duty, Halo, CSGO, GTA, etc.",0.1971824894185063,19.72,197.18248941850706,175,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_38,5,"Other video games, such as Mario Kart, Minecraft, etc.",0.2552040787793514,25.52,255.20407877935241,240,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_38,6,Taylor Swift.,0.13182297640031457,13.18,131.82297640031507,116,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_38,7,Musicians other than Taylor Swift.,0.3717840420052789,37.18,371.78404200528036,377,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_38,8,None of the above.,0.3477957828624643,34.78,347.79578286246567,369,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_4,1,Less than 50 years,0.12245719177892313,12.25,122.4571917789236,110,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_4,2,50-60 years,0.08345296739019746,8.35,83.45296739019778,80,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_4,3,60-70 years,0.07820575169229321,7.82,78.20575169229352,71,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_4,4,70-80 years,0.2518948816463751,25.19,251.89488164637606,272,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_4,5,80-90 years,0.15159901544043358,15.16,151.59901544043416,163,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_4,6,More than 90 years,0.03682140553260359,3.68,36.82140553260373,34,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_4,7,I don't know,0.27556878651917394,27.56,275.568786519175,270,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_41,1,Strongly oppose,0.052165823445320836,5.22,52.16582344532104,49,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_41,2,Oppose,0.059049892028048334,5.9,59.04989202804856,51,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_41,3,Somewhat Oppose,0.07390792433815406,7.39,73.90792433815434,81,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_41,4,Neither oppose nor support,0.2973747699941614,29.74,297.37476999416253,274,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_41,5,Somewhat Support,0.15845145377630407,15.85,158.45145377630467,169,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_41,6,Support,0.12388430951464686,12.39,123.88430951464734,129,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_41,7,Strongly Support,0.23516582690336443,23.52,235.16582690336534,247,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_5,1,I’m scared that AI might take my job,0.10484231310366258,10.48,104.84231310366299,90,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_5,2,I think AI is useful,0.376630679969645,37.66,376.63067996964645,367,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_5,3,I want to learn more about AI for my profession,0.16737223816068836,16.74,167.372238160689,181,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_5,4,I have ethical concerns using AI for my job,0.1743717395327018,17.44,174.37173953270246,177,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_5,5,None of the above,0.3058466296521442,30.58,305.8466296521454,308,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_6,1,Positive,0.12445770546615025,12.45,124.45770546615073,121,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_6,2,Negative,0.16310940829963194,16.31,163.10940829963258,174,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_6,3,Neutral,0.4477581303528762,44.78,447.7581303528779,445,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_6,4,Don’t know,0.24287656971191854,24.29,242.87656971191947,235,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_6,5,Prefer not to say,0.021798186169423073,2.18,21.798186169423158,25,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_7,1,Coal,0.18710442675800312,18.71,187.10442675800385,183,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_7,2,Gas/Oil,0.41455259311952697,41.46,414.5525931195286,402,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_7,3,Solar,0.6386233492772618,63.86,638.6233492772643,665,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_7,4,Wind,0.4833961755459397,48.34,483.3961755459416,521,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_7,5,Nuclear,0.3481884858980133,34.82,348.1884858980147,346,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_7,6,Hydro-electricity (Dams),0.43965418707342097,43.97,439.6541870734227,445,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_7,7,None of the above,0.04980517699406481,4.98,49.805176994065,42,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_9,1,Very poorly,0.23127333666106864,23.13,231.27333666106952,226,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_9,2,Poorly,0.401474546397104,40.15,401.47454639710554,392,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_9,3,Well,0.3288744917186974,32.89,328.8744917186987,341,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_9,4,Very well,0.03837762522312991,3.84,38.37762522313006,41,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_10,1,An excellent job,0.07968404730074838,7.97,79.68404730074842,70,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_10,2,A good job,0.21852451544301071,21.85,218.5245154430108,237,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_10,3,A fair job,0.4163401187817573,41.63,416.3401187817575,431,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_10,4,A poor job,0.2854513184744835,28.55,285.4513184744836,262,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_11,1,At the door (canvassing),0.10485775286159853,10.49,104.85775286159857,111,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_11,2,By a phone call,0.22393086524428288,22.39,223.93086524428298,249,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_11,3,By text or email,0.5271990071079017,52.72,527.1990071079019,565,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_11,4,By direct mail,0.3544299655434618,35.44,354.42996554346195,386,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_11,5,Through a social media advertisement,0.27867804084679,27.87,278.6780408467901,292,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_11,6,Through some other method,0.027063307187107477,2.71,27.06330718710749,28,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_11,7,I have not been contacted by a campaign or party,0.2799494824420408,27.99,279.94948244204096,254,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_12,1,"Yes, regularly",0.026400416599722875,2.64,26.400416599722888,27,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_12,2,"Yes, occasionally",0.04066674966453282,4.07,40.66674966453284,49,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_12,3,"Yes, at least once",0.09506733740111475,9.51,95.0673374011148,91,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_12,4,"No, but I have considered doing so regularly",0.025671988600723745,2.57,25.671988600723758,26,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_12,5,"No, but I have considered doing so occasionally",0.046297736154857126,4.63,46.29773615485715,50,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_12,6,"No, but I have considered doing so at least once",0.1017191576343876,10.17,101.71915763438764,102,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_12,7,"No, and I have never considered doing so.",0.664176613944661,66.42,664.1766139446613,655,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_13,1,Extremely uncomfortable,0.10695046550957482,10.7,106.95046550957487,102,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_13,2,A little uncomfortable,0.09756636966952789,9.76,97.56636966952793,97,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_13,3,Mixed feelings,0.29841696082752195,29.84,298.4169608275221,284,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_13,4,Mostly comfortable,0.24358423077231667,24.36,243.58423077231677,244,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_13,5,Totally comfortable,0.2534819732210586,25.35,253.48197322105872,273,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_14,1,US citizens aged 16-17,0.14316157333934088,14.32,143.16157333934095,136,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_14,2,US citizens aged 14-15,0.026003662937986238,2.6,26.00366293798625,22,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_14,3,Non-citizen adults who are lawful permanent residents of the United States who have applied for US citizenship,0.2509012815049335,25.09,250.90128150493365,251,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_14,4,Non-citizen adults who are lawful permanent residents of the United States who have not applied for US citizenship,0.0813596998298867,8.14,81.35969982988674,79,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_14,5,"All adults who reside in the United States, regardless of immigration status, who have resided in the US for at least 5 years",0.18582164401855558,18.58,185.82164401855567,178,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_14,6,"All adults who reside in the United States, regardless of their immigration status or the amount of time they have lived in the US",0.09913191312494642,9.91,99.13191312494646,89,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_14,7,None of the groups listed above.,0.5107505137256528,51.08,510.75051372565304,530,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_15,1,Strongly agree,0.25028081307618977,25.03,250.28081307618987,243,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_15,2,Somewhat agree,0.18433112027409224,18.43,184.3311202740923,187,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_15,3,Neither agree nor disagree,0.22202587901230497,22.2,222.02587901230507,217,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_15,4,Somewhat disagree,0.14149532983744295,14.15,141.49532983744302,154,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_15,5,Strongly disagree,0.11706065920071064,11.71,117.06065920071069,124,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_15,6,Don’t know,0.052080442167391994,5.21,52.080442167392015,47,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_15,7,No answer,0.032725756431867384,3.27,32.725756431867396,28,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_16_1,0,,0.46218483435027624,46.22,386.76871000695786,409,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_16_1,1,,0.14051443942318662,14.05,117.58626513450037,118,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_16_1,2,,0.07085543002388095,7.09,59.29373105859099,54,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_16_1,3,,0.047549822285927905,4.75,39.79097118675815,40,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_16_1,4,,0.0306922228921708,3.07,25.684078258297845,25,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_16_1,5,,0.10683199802770957,10.68,89.39989154496669,72,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_16_1,6,,0.058046210778346846,5.8,48.574631608354856,41,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_16_1,7,,0.031217237512490816,3.12,26.12342462439274,26,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_16_1,8,,0.0185147493038782,1.85,15.493640578730323,19,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_16_1,9,,0.010646378197303092,1.06,8.909175843914527,6,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_16_1,10,,0.02294667720482898,2.29,19.202397140386537,19,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_17,1,Very Important,0.33876206550619625,33.88,338.7620655061964,374,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_17,2,Important,0.26857842538589344,26.86,268.5784253858936,268,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_17,3,Somewhat Important,0.25666253332626393,25.67,256.66253332626405,237,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_17,4,Not Important,0.06858491961883047,6.86,68.5849196188305,63,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_17,5,Not Sure,0.06741205616281581,6.74,67.41205616281584,58,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_18,1,Strongly Agree,0.16224094669026012,16.22,162.2409466902602,162,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_18,2,Agree,0.3112423369965594,31.12,311.2423369965595,324,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_18,3,Slightly Agree,0.2905428757477329,29.05,290.54287574773304,300,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_18,4,Slightly Disagree,0.12971709413105237,12.97,129.71709413105242,114,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_18,5,Disagree,0.06208799094656857,6.21,62.087990946568596,59,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_18,6,Strongly Disagree,0.044168755487826554,4.42,44.16875548782657,41,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_19,1,Not at all,0.16172433032933228,16.17,161.72433032933236,169,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_19,2,Not very much,0.24698426374514515,24.7,246.98426374514526,260,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_19,3,Somewhat,0.3798352795193586,37.98,379.8352795193588,354,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_19,4,A lot,0.11923464492164461,11.92,119.23464492164466,122,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_19,5,A great deal,0.09222148148451931,9.22,92.22148148451934,95,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,0,,0.0010655176643461245,0.11,1.065517664346125,1,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,1,,0.003312657839612657,0.33,3.3126578396126583,3,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,2,,0.006556416281180472,0.66,6.556416281180475,5,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,3,,0.005532964841039962,0.55,5.5329648410399646,3,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,4,,0.0016951279204873789,0.17,1.6951279204873797,2,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,5,,0.0026779137747407256,0.27,2.677913774740727,3,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,6,,0.0055692272322652985,0.56,5.569227232265301,4,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,7,,0.0022738400804825287,0.23,2.27384008048253,1,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,8,,0.011292604975097372,1.13,11.292604975097378,9,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,9,,0.005280131715312318,0.53,5.28013171531232,7,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,10,,0.02052759553642804,2.05,20.52759553642805,21,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,11,,0.00699243905353275,0.7,6.992439053532753,7,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,12,,0.006938322658548306,0.69,6.9383226585483095,8,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,13,,0.007169449970266189,0.72,7.169449970266192,8,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,14,,0.008982370990933833,0.9,8.982370990933838,11,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,15,,0.023984981562028166,2.4,23.984981562028178,23,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,16,,0.004649550347033078,0.46,4.64955034703308,7,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,17,,0.006208968753276917,0.62,6.2089687532769195,7,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,18,,0.012171560222706494,1.22,12.1715602227065,11,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,19,,0.011293937870385486,1.13,11.293937870385491,15,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,20,,0.062134814349412835,6.21,62.13481434941286,59,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,21,,0.02149149264001817,2.15,21.49149264001818,18,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,22,,0.009007361230173505,0.9,9.00736123017351,12,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,23,,0.010544718857978128,1.05,10.544718857978133,11,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,24,,0.010603419865198666,1.06,10.60341986519867,11,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,25,,0.03516649950699041,3.52,35.16649950699043,40,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,26,,0.013338758921522304,1.33,13.33875892152231,14,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,27,,0.013294116698831671,1.33,13.294116698831678,17,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,28,,0.015158729920291027,1.52,15.158729920291034,17,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,29,,0.03493320758449213,3.49,34.933207584492145,35,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,30,,0.12710987718694988,12.71,127.10987718694993,131,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,31,,0.030694259399161566,3.07,30.69425939916158,33,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,32,,0.016137901507592953,1.61,16.13790150759296,17,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,33,,0.025959256198454107,2.6,25.95925619845412,30,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,34,,0.018003606052322933,1.8,18.00360605232294,19,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,35,,0.04296428501495752,4.3,42.96428501495754,40,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,36,,0.023737984894157654,2.37,23.737984894157666,20,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,37,,0.014692562364196353,1.47,14.692562364196359,11,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,38,,0.01816458622852845,1.82,18.164586228528457,16,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,39,,0.019473752713216518,1.95,19.473752713216527,21,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,40,,0.05713705587652214,5.71,57.13705587652216,64,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,41,,0.029009305561415566,2.9,29.00930556141558,30,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,42,,0.018305379331775166,1.83,18.305379331775175,17,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,43,,0.010161904827349454,1.02,10.161904827349458,7,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,44,,0.0054209264184729745,0.54,5.420926418472977,6,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,45,,0.019472399888181918,1.95,19.472399888181926,16,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,46,,0.015314949964525353,1.53,15.31494996452536,13,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,47,,0.008366780136425146,0.84,8.36678013642515,8,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,48,,0.0015550309579844136,0.16,1.5550309579844144,2,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,49,,0.005729813574327644,0.57,5.729813574327647,6,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,50,,0.03112779315668628,3.11,31.127793156686295,26,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,51,,0.008213914821781533,0.82,8.213914821781536,9,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,52,,0.013848763939719925,1.38,13.848763939719932,12,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,53,,0.0013489234865096688,0.13,1.3489234865096695,2,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,54,,0.0045815886755183844,0.46,4.581588675518386,4,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,55,,0.00519639744940702,0.52,5.196397449407022,6,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,56,,0.0021763725619776924,0.22,2.1763725619776935,3,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,57,,0.002246243813088002,0.22,2.246243813088003,2,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,58,,0.001224949019412428,0.12,1.2249490194124286,1,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,59,,0.0007482596866718457,0.07,0.7482596866718461,1,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,60,,0.004991132068181606,0.5,4.991132068181608,4,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,62,,0.0065922875410973835,0.66,6.592287541097386,6,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,63,,0.0008363883508330248,0.08,0.8363883508330252,1,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,64,,0.0032537811752153816,0.33,3.253781175215383,2,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,65,,0.000736025094872936,0.07,0.7360250948729363,1,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,67,,0.0006242038824856642,0.06,0.6242038824856645,1,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,68,,0.00048644053607731046,0.05,0.4864405360773107,1,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,70,,0.0007865628888447375,0.08,0.7865628888447378,1,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,71,,0.002282659047095854,0.23,2.282659047095855,2,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,72,,0.0006390425390364259,0.06,0.6390425390364262,1,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,74,,0.0012942757976304718,0.13,1.2942757976304724,2,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,75,,0.0011049269303584463,0.11,1.1049269303584468,1,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,76,,0.0007163525785119878,0.07,0.7163525785119882,1,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,79,,0.0023940413098864615,0.24,2.394041309886463,2,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,80,,0.0023288255553302662,0.23,2.3288255553302672,2,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,81,,0.0007865628888447375,0.08,0.7865628888447378,1,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,84,,0.0023705463687263284,0.24,2.3705463687263295,1,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,86,,0.0008246804376576529,0.08,0.8246804376576533,1,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,90,,0.000876937875330235,0.09,0.8769378753302354,1,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_1_3,100,,0.008100803562079572,0.81,8.100803562079577,5,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_2,1,Kamala Harris,0.510550664020717,51.06,510.55066402071725,531,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_2,2,Donald Trump,0.48944933597928286,48.94,489.4493359792831,469,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_20,1,Male,0.2182488953529513,21.82,218.2488953529514,212,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_20,2,Female,0.3961649597129288,39.62,396.164959712929,408,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_20,3,Don’t Know,0.3855861449341198,38.56,385.58614493412,380,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_21,1,Much more effective,0.1555894193038049,15.56,155.589419303805,172,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_21,2,Somewhat more effective,0.2587602381501283,25.88,258.7602381501284,262,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_21,3,Equally effective,0.3876884480740674,38.77,387.68844807406754,369,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_21,4,Somewhat less effective,0.1547434777622601,15.47,154.74347776226017,155,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_21,5,Much less effective,0.04321841670973927,4.32,43.21841670973929,42,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_22,1,You want to persuade your friend to share your opinion,0.17706088612060591,17.71,177.060886120606,174,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_22,2,You think it is important to do your civic duty by discussing politics with others,0.39887432456260885,39.89,398.87432456260905,403,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_22,3,You are worried your friend will judge you for your opinion,0.11662160623435457,11.66,116.62160623435462,109,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_22,4,You are worried talking about the election will damage your relationship,0.30744318308243057,30.74,307.4431830824307,314,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_23,1,You want to persuade your friend to share your opinion,0.1996285433776528,19.96,199.62854337765287,190,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_23,2,You think it is important to do your civic duty by discussing politics with others,0.49442883261719384,49.44,494.4288326171941,512,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_23,3,You are worried your friend will judge you for your opinion,0.10388010020051215,10.39,103.8801002005122,100,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_23,4,You are worried talking about the election will damage your relationship,0.20206252380464113,20.21,202.06252380464122,198,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_24,1,Male,0.4022663448926178,40.23,402.266344892618,409,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_24,2,Female,0.24197068232710323,24.2,241.97068232710333,237,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_24,3,Don’t Know,0.35576297278027885,35.58,355.76297278027903,354,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_25_1,1,1,0.19248013811989353,19.25,192.4801381198936,176,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_25_1,2,2,0.31759535124814336,31.76,317.5953512481435,331,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_25_1,3,3,0.2775223432772524,27.75,277.5223432772525,291,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_25_1,4,4,0.21240216735471065,21.24,212.40216735471074,202,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_25_2,1,1,0.17140470634768243,17.14,171.40470634768252,177,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_25_2,2,2,0.298089915224165,29.81,298.0899152241651,299,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_25_2,3,3,0.31746435852191623,31.75,317.4643585219164,319,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_25_2,4,4,0.21304101990623622,21.3,213.04101990623633,205,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_25_3,1,1,0.4650628685055185,46.51,465.0628685055187,495,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_25_3,2,2,0.218605889731367,21.86,218.60588973136709,215,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_25_3,3,3,0.19152445635485074,19.15,191.52445635485083,168,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_25_3,4,4,0.12480678540826369,12.48,124.80678540826375,122,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_25_4,1,1,0.17105228702690545,17.11,171.05228702690553,152,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_25_4,2,2,0.16570884379632456,16.57,165.70884379632463,155,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_25_4,3,3,0.21348884184598055,21.35,213.48884184598066,222,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_25_4,4,4,0.44975002733078934,44.98,449.7500273307895,471,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_26,1,A lot of power,0.07629878297009578,7.63,76.29878297009581,69,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_26,2,A moderate amount of power,0.29097673878717184,29.1,290.976738787172,287,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_26,3,Not a lot of power,0.3390015973925491,33.9,339.00159739254923,359,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_26,4,No power at all,0.16411086195370445,16.41,164.11086195370453,171,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_26,5,I have no opinion,0.12961201889647872,12.96,129.6120188964788,114,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_27,1,Very Likely,0.0804265186751312,8.04,80.42651867513123,69,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_27,2,Likely,0.23619008432111152,23.62,236.19008432111164,239,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_27,3,Unlikely,0.2670086806881736,26.7,267.00868068817374,276,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_27,4,Very Unlikely,0.22805092883329178,22.81,228.0509288332919,242,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_27,5,Don’t Know,0.18832378748229178,18.83,188.32378748229186,174,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_28,1,Strongly Disagree,0.22592558221572287,22.59,225.92558221572298,235,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_28,2,Disagree,0.16231809815213624,16.23,162.31809815213632,171,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_28,3,Neither agree nor disagree,0.37934430946879705,37.93,379.34430946879723,363,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_28,4,Agree,0.16407352263258887,16.41,164.07352263258895,169,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_28,5,Strongly Agree,0.06833848753075483,6.83,68.33848753075486,62,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_29,1,Very likely,0.08176880052619157,8.18,81.7688005261916,83,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_29,2,Likely,0.26880627322020745,26.88,268.8062732202076,287,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_29,3,Neither likely nor unlikely,0.37282241560431906,37.28,372.82241560431925,345,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_29,4,Unlikely,0.19986749379456067,19.99,199.86749379456077,211,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_29,5,Very unlikely,0.07673501685472114,7.67,76.73501685472118,74,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_3,1,Agree strongly,0.1099029498726781,10.99,109.90294987267815,100,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_3,2,Agree somewhat,0.09611584781968231,9.61,96.11584781968236,85,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_3,3,Neither agree nor disagree,0.1933791177618505,19.34,193.37911776185058,192,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_3,4,Disagree somewhat,0.04496343814695253,4.5,44.96343814695255,46,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_3,5,Disagree strongly,0.5556386463988364,55.56,555.6386463988367,577,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_30,1,Strongly agree,0.09011062721757994,9.01,90.11062721757997,93,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_30,2,Somewhat agree,0.13471622008212286,13.47,134.71622008212293,134,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_30,3,Neither agree nor disagree,0.16226633709942845,16.23,162.2663370994285,128,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_30,4,Somewhat disagree,0.11716000932812999,11.72,117.16000932813004,113,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_30,5,Strongly disagree,0.49574680627273865,49.57,495.74680627273887,532,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_31,1,Yes,0.020647683368386727,2.06,20.647683368386737,18,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_31,2,No,0.9247490843351194,92.47,924.7490843351198,937,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_31,3,I don’t know,0.05460323229649374,5.46,54.603232296493765,45,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_4,1,Yes,0.4917170525753696,49.17,491.7170525753698,480,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_4,2,No,0.5082829474246303,50.83,508.28294742463055,520,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_5,1,Yes,0.5639134529940963,56.39,563.9134529940966,591,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_5,2,No,0.22970115780195702,22.97,229.70115780195712,231,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_5,3,Don’t know,0.2063853892039465,20.64,206.3853892039466,178,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_6,1,Yes,0.23910448862930456,23.91,239.10448862930465,254,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_6,2,No,0.37682128666772663,37.68,376.8212866677268,377,false,https://verasight-apsa-2024.tiiny.co
+2024-103_pol_6,3,Can’t recall,0.38407422470296876,38.41,384.07422470296893,369,false,https://verasight-apsa-2024.tiiny.co
+2025-026_elections_rg,1,Strongly oppose,0.2392499149399733,23.92,239.24991493997422,234,false,https://verasight-mpsa-2025.tiiny.co
+2025-026_elections_rg,2,Oppose,0.11497922023613345,11.5,114.9792202361339,119,false,https://verasight-mpsa-2025.tiiny.co
+2025-026_elections_rg,3,Somewhat oppose,0.12089045551590512,12.09,120.89045551590559,122,false,https://verasight-mpsa-2025.tiiny.co
+2025-026_elections_rg,4,Neither oppose nor support,0.27791899756263616,27.79,277.91899756263723,252,false,https://verasight-mpsa-2025.tiiny.co
+2025-026_elections_rg,5,Somewhat support,0.14406201926269155,14.41,144.0620192626921,160,false,https://verasight-mpsa-2025.tiiny.co
+2025-026_elections_rg,6,Support,0.05773649393834306,5.77,57.73649393834329,68,false,https://verasight-mpsa-2025.tiiny.co
+2025-026_elections_rg,7,Strongly support,0.045162898544317376,4.52,45.16289854431755,45,false,https://verasight-mpsa-2025.tiiny.co
+2025-026_policy_33,1,Not at all,0.056357235985395236,5.64,56.357235985395235,52,false,https://verasight-mpsa-2025.tiiny.co
+2025-026_policy_33,2,Very little,0.26778099998788213,26.78,267.7809999878821,257,false,https://verasight-mpsa-2025.tiiny.co
+2025-026_policy_33,3,Considerably,0.5332955752119514,53.33,533.2955752119514,545,false,https://verasight-mpsa-2025.tiiny.co
+2025-026_policy_33,4,To a great extent,0.14256618881477134,14.26,142.56618881477135,146,false,https://verasight-mpsa-2025.tiiny.co
+2025-119_q56,1,"Yes, a lot",0.3551560732504803,35.52,355.15607325048046,382,false,https://reports.verasight.io/reports/apsa-2025#in-your-opinion-does-the-outcome-of-the-war-in-ukraine-directly-affect-american-national-security-interests
+2025-119_q56,2,"Yes, a little",0.4458181734127479,44.58,445.8181734127481,438,false,https://reports.verasight.io/reports/apsa-2025#in-your-opinion-does-the-outcome-of-the-war-in-ukraine-directly-affect-american-national-security-interests
+2025-119_q56,3,No,0.19902575333677172,19.9,199.0257533367718,180,false,https://reports.verasight.io/reports/apsa-2025#in-your-opinion-does-the-outcome-of-the-war-in-ukraine-directly-affect-american-national-security-interests
+2025-119_q61,1,Would strongly support,0.24557631167175462,24.56,245.5763116717546,272,false,https://reports.verasight.io/reports/apsa-2025#would-you-support-expanding-legal-pathways-to-enter-the-united-states-including-temporary-worker-programs-as-a-way-to-reduce-illegal-crossings-at-the-border
+2025-119_q61,2,Would somewhat support,0.27719493059112615,27.72,277.19493059112614,288,false,https://reports.verasight.io/reports/apsa-2025#would-you-support-expanding-legal-pathways-to-enter-the-united-states-including-temporary-worker-programs-as-a-way-to-reduce-illegal-crossings-at-the-border
+2025-119_q61,3,Neutral,0.24881010494369643,24.88,248.81010494369644,216,false,https://reports.verasight.io/reports/apsa-2025#would-you-support-expanding-legal-pathways-to-enter-the-united-states-including-temporary-worker-programs-as-a-way-to-reduce-illegal-crossings-at-the-border
+2025-119_q61,4,Would somewhat oppose,0.06368756839744694,6.37,63.68756839744694,65,false,https://reports.verasight.io/reports/apsa-2025#would-you-support-expanding-legal-pathways-to-enter-the-united-states-including-temporary-worker-programs-as-a-way-to-reduce-illegal-crossings-at-the-border
+2025-119_q61,5,Would strongly oppose,0.14871707194346273,14.87,148.71707194346274,144,false,https://reports.verasight.io/reports/apsa-2025#would-you-support-expanding-legal-pathways-to-enter-the-united-states-including-temporary-worker-programs-as-a-way-to-reduce-illegal-crossings-at-the-border
+2025-119_q61,6,Prefer not to answer,0.016014012452513163,1.6,16.014012452513164,15,false,https://reports.verasight.io/reports/apsa-2025#would-you-support-expanding-legal-pathways-to-enter-the-united-states-including-temporary-worker-programs-as-a-way-to-reduce-illegal-crossings-at-the-border
+2025-119_q70,1,Low-income countries,0.40502069460415036,40.5,405.0206946041519,428,false,https://reports.verasight.io/reports/apsa-2025#who-in-your-opinion-should-be-the-recipient-of-foreign-aid
+2025-119_q70,2,Countries at war,0.20289959406377497,20.29,202.89959406377577,226,false,https://reports.verasight.io/reports/apsa-2025#who-in-your-opinion-should-be-the-recipient-of-foreign-aid
+2025-119_q70,3,Countries with good governance,0.31315606110942357,31.32,313.1560611094248,311,false,https://reports.verasight.io/reports/apsa-2025#who-in-your-opinion-should-be-the-recipient-of-foreign-aid
+2025-119_q70,4,Countries whose basic cultural and political values are aligned with those of the donor country,0.3508442846960728,35.08,350.84428469607417,369,false,https://reports.verasight.io/reports/apsa-2025#who-in-your-opinion-should-be-the-recipient-of-foreign-aid
+2025-119_q70,5,None of the above,0.2508150277703892,25.08,250.81502777039017,230,false,https://reports.verasight.io/reports/apsa-2025#who-in-your-opinion-should-be-the-recipient-of-foreign-aid
+2025-119_q75,1,I currently own my home.,0.5098665934119996,50.99,509.8665934120016,560,false,https://reports.verasight.io/reports/apsa-2025#which-of-the-following-best-describes-your-current-housing-situation-and-history
+2025-119_q75,2,"I currently rent my home, but have owned a home in the past.",0.08703404582466569,8.7,87.03404582466602,93,false,https://reports.verasight.io/reports/apsa-2025#which-of-the-following-best-describes-your-current-housing-situation-and-history
+2025-119_q75,3,I currently rent my home and have never owned a home.,0.211318166610035,21.13,211.3181666100358,199,false,https://reports.verasight.io/reports/apsa-2025#which-of-the-following-best-describes-your-current-housing-situation-and-history
+2025-119_q75,4,"I have another living arrangement (e.g., living with family, student housing, etc.), but have owned a home in the past.",0.06662727120828588,6.66,66.62727120828613,53,false,https://reports.verasight.io/reports/apsa-2025#which-of-the-following-best-describes-your-current-housing-situation-and-history
+2025-119_q75,5,I have another living arrangement and have never owned a home.,0.10040507144446162,10.04,100.40507144446201,70,false,https://reports.verasight.io/reports/apsa-2025#which-of-the-following-best-describes-your-current-housing-situation-and-history
+2025-119_q75,6,Prefer not to say.,0.02474885150055218,2.47,24.748851500552274,25,false,https://reports.verasight.io/reports/apsa-2025#which-of-the-following-best-describes-your-current-housing-situation-and-history

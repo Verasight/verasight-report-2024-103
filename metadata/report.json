@@ -1,0 +1,29 @@
+{
+  "report_id": "2024-103",
+  "repo_name": "verasight-report-2024-103",
+  "title": "Verasight APSA Omnibus Survey #2024-103",
+  "wave_id": "2024-103",
+  "survey_id": "2024-103",
+  "source_report_url": "https://verasight-apsa-2024.tiiny.co",
+  "data_library_url": "https://data.verasight.io/",
+  "field_dates": {
+    "start": "2024-10-01",
+    "end": "2024-10-11"
+  },
+  "population": "US adults age 18+",
+  "mode": "online panel (Verasight Community)",
+  "sponsor": "Verasight",
+  "aapor_transparency": true,
+  "question_count": 103,
+  "modules": [
+    "2023 APSA Omnibus Survey #2023-071",
+    "Verasight Interdisciplinary Omnibus Survey #2024-006",
+    "Verasight MPSA Omnibus Survey #2024-037, module 1",
+    "education and politics",
+    "media and finance",
+    "politics and courts",
+    "elections",
+    "policy",
+    "Verasight APSA Omnibus Survey #2025-119"
+  ]
+}
