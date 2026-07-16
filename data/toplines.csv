@@ -13,12 +13,12 @@ question_id,option_id,option_label,weighted_share,weighted_percent,weighted_n,un
 2023-071_q21,9,Evangelical Christians,0.16058984132585674,16.06,160.58984132585735,187,false,https://verasight-apsa-2023.tiiny.co
 2023-071_q21,10,Whites,0.04295849887469735,4.3,42.95849887469751,41,false,https://verasight-apsa-2023.tiiny.co
 2023-071_q21,11,Blacks,0.06750907162992953,6.75,67.50907162992979,60,false,https://verasight-apsa-2023.tiiny.co
-2024-006_a82_jackson,1,Abortion is fully banned with no exceptions,0.10096267887948315,10.1,100.96267887948319,97,false,https://reports.verasight.io/reports/verasight-interdisciplinary-omnibus-survey-2024-006#to-the-best-of-your-knowledge-what-is-the-legal-status-of-abortion-in-your-state-as-of-today
-2024-006_a82_jackson,2,Abortion is fully banned with few exceptions,0.1418130655422657,14.18,141.81306554226575,147,false,https://reports.verasight.io/reports/verasight-interdisciplinary-omnibus-survey-2024-006#to-the-best-of-your-knowledge-what-is-the-legal-status-of-abortion-in-your-state-as-of-today
-2024-006_a82_jackson,3,Abortion is legal very early in pregnancy (up to 6-9 weeks) and illegal after,0.13604877439147567,13.6,136.04877439147572,143,false,https://reports.verasight.io/reports/verasight-interdisciplinary-omnibus-survey-2024-006#to-the-best-of-your-knowledge-what-is-the-legal-status-of-abortion-in-your-state-as-of-today
-2024-006_a82_jackson,4,Abortion is legal very early in pregnancy (up to 15-20 weeks) and illegal after,0.10774767028590798,10.77,107.74767028590803,110,false,https://reports.verasight.io/reports/verasight-interdisciplinary-omnibus-survey-2024-006#to-the-best-of-your-knowledge-what-is-the-legal-status-of-abortion-in-your-state-as-of-today
-2024-006_a82_jackson,5,Abortion is legal with very few or no restrictions,0.2733991888410677,27.34,273.3991888410678,289,false,https://reports.verasight.io/reports/verasight-interdisciplinary-omnibus-survey-2024-006#to-the-best-of-your-knowledge-what-is-the-legal-status-of-abortion-in-your-state-as-of-today
-2024-006_a82_jackson,6,Not sure what the laws in my state are,0.2400286220597997,24,240.0286220597998,214,false,https://reports.verasight.io/reports/verasight-interdisciplinary-omnibus-survey-2024-006#to-the-best-of-your-knowledge-what-is-the-legal-status-of-abortion-in-your-state-as-of-today
+2024-006_a82_jackson,1,Abortion is fully banned with no exceptions,0.10096267887948315,10.1,100.96267887948319,97,false,https://github.com/Verasight/verasight-report-2024-006
+2024-006_a82_jackson,2,Abortion is fully banned with few exceptions,0.1418130655422657,14.18,141.81306554226575,147,false,https://github.com/Verasight/verasight-report-2024-006
+2024-006_a82_jackson,3,Abortion is legal very early in pregnancy (up to 6-9 weeks) and illegal after,0.13604877439147567,13.6,136.04877439147572,143,false,https://github.com/Verasight/verasight-report-2024-006
+2024-006_a82_jackson,4,Abortion is legal very early in pregnancy (up to 15-20 weeks) and illegal after,0.10774767028590798,10.77,107.74767028590803,110,false,https://github.com/Verasight/verasight-report-2024-006
+2024-006_a82_jackson,5,Abortion is legal with very few or no restrictions,0.2733991888410677,27.34,273.3991888410678,289,false,https://github.com/Verasight/verasight-report-2024-006
+2024-006_a82_jackson,6,Not sure what the laws in my state are,0.2400286220597997,24,240.0286220597998,214,false,https://github.com/Verasight/verasight-report-2024-006
 2024-037_q4,1,Support,0.30750704136636825,30.75,307.50704136636824,292,false,https://verasight-mpsa-2024.tiiny.co
 2024-037_q4,2,Oppose,0.44908103525827164,44.91,449.08103525827164,479,false,https://verasight-mpsa-2024.tiiny.co
 2024-037_q4,3,Don’t know,0.24341192337536016,24.34,243.41192337536017,229,false,https://verasight-mpsa-2024.tiiny.co
@@ -248,7 +248,7 @@ question_id,option_id,option_label,weighted_share,weighted_percent,weighted_n,un
 2024-103_media_fin_27,5,Strongly disagree,0.09213965365286496,9.21,92.13965365286532,103,false,https://verasight-apsa-2024.tiiny.co
 2024-103_media_fin_27,6,Don’t know,0.05547134015525316,5.55,55.47134015525337,57,false,https://verasight-apsa-2024.tiiny.co
 2024-103_media_fin_27,7,No answer,0.029397077951056567,2.94,29.39707795105668,28,false,https://verasight-apsa-2024.tiiny.co
-2024-103_media_fin_28,1,0 - Not confidence at all,0.08644914589395754,8.64,86.44914589395788,72,false,https://verasight-apsa-2024.tiiny.co
+2024-103_media_fin_28,1,0 - No confidence at all,0.08644914589395754,8.64,86.44914589395788,72,false,https://verasight-apsa-2024.tiiny.co
 2024-103_media_fin_28,2,1,0.0681729793459016,6.82,68.17297934590185,62,false,https://verasight-apsa-2024.tiiny.co
 2024-103_media_fin_28,3,2,0.18982018332302025,18.98,189.82018332302098,186,false,https://verasight-apsa-2024.tiiny.co
 2024-103_media_fin_28,4,3,0.4030901227558254,40.31,403.09012275582694,425,false,https://verasight-apsa-2024.tiiny.co
@@ -573,34 +573,34 @@ question_id,option_id,option_label,weighted_share,weighted_percent,weighted_n,un
 2024-103_pol_6,1,Yes,0.23910448862930456,23.91,239.10448862930465,254,false,https://verasight-apsa-2024.tiiny.co
 2024-103_pol_6,2,No,0.37682128666772663,37.68,376.8212866677268,377,false,https://verasight-apsa-2024.tiiny.co
 2024-103_pol_6,3,Can’t recall,0.38407422470296876,38.41,384.07422470296893,369,false,https://verasight-apsa-2024.tiiny.co
-2025-026_elections_rg,1,Strongly oppose,0.2392499149399733,23.92,239.24991493997422,234,false,https://verasight-mpsa-2025.tiiny.co
-2025-026_elections_rg,2,Oppose,0.11497922023613345,11.5,114.9792202361339,119,false,https://verasight-mpsa-2025.tiiny.co
-2025-026_elections_rg,3,Somewhat oppose,0.12089045551590512,12.09,120.89045551590559,122,false,https://verasight-mpsa-2025.tiiny.co
-2025-026_elections_rg,4,Neither oppose nor support,0.27791899756263616,27.79,277.91899756263723,252,false,https://verasight-mpsa-2025.tiiny.co
-2025-026_elections_rg,5,Somewhat support,0.14406201926269155,14.41,144.0620192626921,160,false,https://verasight-mpsa-2025.tiiny.co
-2025-026_elections_rg,6,Support,0.05773649393834306,5.77,57.73649393834329,68,false,https://verasight-mpsa-2025.tiiny.co
-2025-026_elections_rg,7,Strongly support,0.045162898544317376,4.52,45.16289854431755,45,false,https://verasight-mpsa-2025.tiiny.co
-2025-026_policy_33,1,Not at all,0.056357235985395236,5.64,56.357235985395235,52,false,https://verasight-mpsa-2025.tiiny.co
-2025-026_policy_33,2,Very little,0.26778099998788213,26.78,267.7809999878821,257,false,https://verasight-mpsa-2025.tiiny.co
-2025-026_policy_33,3,Considerably,0.5332955752119514,53.33,533.2955752119514,545,false,https://verasight-mpsa-2025.tiiny.co
-2025-026_policy_33,4,To a great extent,0.14256618881477134,14.26,142.56618881477135,146,false,https://verasight-mpsa-2025.tiiny.co
-2025-119_q56,1,"Yes, a lot",0.3551560732504803,35.52,355.15607325048046,382,false,https://reports.verasight.io/reports/apsa-2025#in-your-opinion-does-the-outcome-of-the-war-in-ukraine-directly-affect-american-national-security-interests
-2025-119_q56,2,"Yes, a little",0.4458181734127479,44.58,445.8181734127481,438,false,https://reports.verasight.io/reports/apsa-2025#in-your-opinion-does-the-outcome-of-the-war-in-ukraine-directly-affect-american-national-security-interests
-2025-119_q56,3,No,0.19902575333677172,19.9,199.0257533367718,180,false,https://reports.verasight.io/reports/apsa-2025#in-your-opinion-does-the-outcome-of-the-war-in-ukraine-directly-affect-american-national-security-interests
-2025-119_q61,1,Would strongly support,0.24557631167175462,24.56,245.5763116717546,272,false,https://reports.verasight.io/reports/apsa-2025#would-you-support-expanding-legal-pathways-to-enter-the-united-states-including-temporary-worker-programs-as-a-way-to-reduce-illegal-crossings-at-the-border
-2025-119_q61,2,Would somewhat support,0.27719493059112615,27.72,277.19493059112614,288,false,https://reports.verasight.io/reports/apsa-2025#would-you-support-expanding-legal-pathways-to-enter-the-united-states-including-temporary-worker-programs-as-a-way-to-reduce-illegal-crossings-at-the-border
-2025-119_q61,3,Neutral,0.24881010494369643,24.88,248.81010494369644,216,false,https://reports.verasight.io/reports/apsa-2025#would-you-support-expanding-legal-pathways-to-enter-the-united-states-including-temporary-worker-programs-as-a-way-to-reduce-illegal-crossings-at-the-border
-2025-119_q61,4,Would somewhat oppose,0.06368756839744694,6.37,63.68756839744694,65,false,https://reports.verasight.io/reports/apsa-2025#would-you-support-expanding-legal-pathways-to-enter-the-united-states-including-temporary-worker-programs-as-a-way-to-reduce-illegal-crossings-at-the-border
-2025-119_q61,5,Would strongly oppose,0.14871707194346273,14.87,148.71707194346274,144,false,https://reports.verasight.io/reports/apsa-2025#would-you-support-expanding-legal-pathways-to-enter-the-united-states-including-temporary-worker-programs-as-a-way-to-reduce-illegal-crossings-at-the-border
-2025-119_q61,6,Prefer not to answer,0.016014012452513163,1.6,16.014012452513164,15,false,https://reports.verasight.io/reports/apsa-2025#would-you-support-expanding-legal-pathways-to-enter-the-united-states-including-temporary-worker-programs-as-a-way-to-reduce-illegal-crossings-at-the-border
-2025-119_q70,1,Low-income countries,0.40502069460415036,40.5,405.0206946041519,428,false,https://reports.verasight.io/reports/apsa-2025#who-in-your-opinion-should-be-the-recipient-of-foreign-aid
-2025-119_q70,2,Countries at war,0.20289959406377497,20.29,202.89959406377577,226,false,https://reports.verasight.io/reports/apsa-2025#who-in-your-opinion-should-be-the-recipient-of-foreign-aid
-2025-119_q70,3,Countries with good governance,0.31315606110942357,31.32,313.1560611094248,311,false,https://reports.verasight.io/reports/apsa-2025#who-in-your-opinion-should-be-the-recipient-of-foreign-aid
-2025-119_q70,4,Countries whose basic cultural and political values are aligned with those of the donor country,0.3508442846960728,35.08,350.84428469607417,369,false,https://reports.verasight.io/reports/apsa-2025#who-in-your-opinion-should-be-the-recipient-of-foreign-aid
-2025-119_q70,5,None of the above,0.2508150277703892,25.08,250.81502777039017,230,false,https://reports.verasight.io/reports/apsa-2025#who-in-your-opinion-should-be-the-recipient-of-foreign-aid
-2025-119_q75,1,I currently own my home.,0.5098665934119996,50.99,509.8665934120016,560,false,https://reports.verasight.io/reports/apsa-2025#which-of-the-following-best-describes-your-current-housing-situation-and-history
-2025-119_q75,2,"I currently rent my home, but have owned a home in the past.",0.08703404582466569,8.7,87.03404582466602,93,false,https://reports.verasight.io/reports/apsa-2025#which-of-the-following-best-describes-your-current-housing-situation-and-history
-2025-119_q75,3,I currently rent my home and have never owned a home.,0.211318166610035,21.13,211.3181666100358,199,false,https://reports.verasight.io/reports/apsa-2025#which-of-the-following-best-describes-your-current-housing-situation-and-history
-2025-119_q75,4,"I have another living arrangement (e.g., living with family, student housing, etc.), but have owned a home in the past.",0.06662727120828588,6.66,66.62727120828613,53,false,https://reports.verasight.io/reports/apsa-2025#which-of-the-following-best-describes-your-current-housing-situation-and-history
-2025-119_q75,5,I have another living arrangement and have never owned a home.,0.10040507144446162,10.04,100.40507144446201,70,false,https://reports.verasight.io/reports/apsa-2025#which-of-the-following-best-describes-your-current-housing-situation-and-history
-2025-119_q75,6,Prefer not to say.,0.02474885150055218,2.47,24.748851500552274,25,false,https://reports.verasight.io/reports/apsa-2025#which-of-the-following-best-describes-your-current-housing-situation-and-history
+2025-026_elections_rg,1,Strongly oppose,0.2392499149399733,23.92,239.24991493997422,234,false,https://verasight-apsa-2024.tiiny.co
+2025-026_elections_rg,2,Oppose,0.11497922023613345,11.5,114.9792202361339,119,false,https://verasight-apsa-2024.tiiny.co
+2025-026_elections_rg,3,Somewhat oppose,0.12089045551590512,12.09,120.89045551590559,122,false,https://verasight-apsa-2024.tiiny.co
+2025-026_elections_rg,4,Neither oppose nor support,0.27791899756263616,27.79,277.91899756263723,252,false,https://verasight-apsa-2024.tiiny.co
+2025-026_elections_rg,5,Somewhat support,0.14406201926269155,14.41,144.0620192626921,160,false,https://verasight-apsa-2024.tiiny.co
+2025-026_elections_rg,6,Support,0.05773649393834306,5.77,57.73649393834329,68,false,https://verasight-apsa-2024.tiiny.co
+2025-026_elections_rg,7,Strongly support,0.045162898544317376,4.52,45.16289854431755,45,false,https://verasight-apsa-2024.tiiny.co
+2025-026_policy_33,1,Not at all,0.056357235985395236,5.64,56.357235985395235,52,false,https://verasight-apsa-2024.tiiny.co
+2025-026_policy_33,2,Very little,0.26778099998788213,26.78,267.7809999878821,257,false,https://verasight-apsa-2024.tiiny.co
+2025-026_policy_33,3,Considerably,0.5332955752119514,53.33,533.2955752119514,545,false,https://verasight-apsa-2024.tiiny.co
+2025-026_policy_33,4,To a great extent,0.14256618881477134,14.26,142.56618881477135,146,false,https://verasight-apsa-2024.tiiny.co
+2025-119_q56,1,"Yes, a lot",0.3551560732504803,35.52,355.15607325048046,382,false,https://verasight-apsa-2024.tiiny.co
+2025-119_q56,2,"Yes, a little",0.4458181734127479,44.58,445.8181734127481,438,false,https://verasight-apsa-2024.tiiny.co
+2025-119_q56,3,No,0.19902575333677172,19.9,199.0257533367718,180,false,https://verasight-apsa-2024.tiiny.co
+2025-119_q61,1,Would strongly support,0.24557631167175462,24.56,245.5763116717546,272,false,https://verasight-apsa-2024.tiiny.co
+2025-119_q61,2,Would somewhat support,0.27719493059112615,27.72,277.19493059112614,288,false,https://verasight-apsa-2024.tiiny.co
+2025-119_q61,3,Neutral,0.24881010494369643,24.88,248.81010494369644,216,false,https://verasight-apsa-2024.tiiny.co
+2025-119_q61,4,Would somewhat oppose,0.06368756839744694,6.37,63.68756839744694,65,false,https://verasight-apsa-2024.tiiny.co
+2025-119_q61,5,Would strongly oppose,0.14871707194346273,14.87,148.71707194346274,144,false,https://verasight-apsa-2024.tiiny.co
+2025-119_q61,6,Prefer not to answer,0.016014012452513163,1.6,16.014012452513164,15,false,https://verasight-apsa-2024.tiiny.co
+2025-119_q70,1,Low-income countries,0.40502069460415036,40.5,405.0206946041519,428,false,https://verasight-apsa-2024.tiiny.co
+2025-119_q70,2,Countries at war,0.20289959406377497,20.29,202.89959406377577,226,false,https://verasight-apsa-2024.tiiny.co
+2025-119_q70,3,Countries with good governance,0.31315606110942357,31.32,313.1560611094248,311,false,https://verasight-apsa-2024.tiiny.co
+2025-119_q70,4,Countries whose basic cultural and political values are aligned with those of the donor country,0.3508442846960728,35.08,350.84428469607417,369,false,https://verasight-apsa-2024.tiiny.co
+2025-119_q70,5,None of the above,0.2508150277703892,25.08,250.81502777039017,230,false,https://verasight-apsa-2024.tiiny.co
+2025-119_q75,1,I currently own my home.,0.5098665934119996,50.99,509.8665934120016,560,false,https://verasight-apsa-2024.tiiny.co
+2025-119_q75,2,"I currently rent my home, but have owned a home in the past.",0.08703404582466569,8.7,87.03404582466602,93,false,https://verasight-apsa-2024.tiiny.co
+2025-119_q75,3,I currently rent my home and have never owned a home.,0.211318166610035,21.13,211.3181666100358,199,false,https://verasight-apsa-2024.tiiny.co
+2025-119_q75,4,"I have another living arrangement (e.g., living with family, student housing, etc.), but have owned a home in the past.",0.06662727120828588,6.66,66.62727120828613,53,false,https://verasight-apsa-2024.tiiny.co
+2025-119_q75,5,I have another living arrangement and have never owned a home.,0.10040507144446162,10.04,100.40507144446201,70,false,https://verasight-apsa-2024.tiiny.co
+2025-119_q75,6,Prefer not to say.,0.02474885150055218,2.47,24.748851500552274,25,false,https://verasight-apsa-2024.tiiny.co
