@@ -248,7 +248,7 @@ question_id,option_id,option_label,is_missing
 2024-103_media_fin_27,5,Strongly disagree,false
 2024-103_media_fin_27,6,Don’t know,false
 2024-103_media_fin_27,7,No answer,false
-2024-103_media_fin_28,1,0 - Not confidence at all,false
+2024-103_media_fin_28,1,0 - No confidence at all,false
 2024-103_media_fin_28,2,1,false
 2024-103_media_fin_28,3,2,false
 2024-103_media_fin_28,4,3,false
