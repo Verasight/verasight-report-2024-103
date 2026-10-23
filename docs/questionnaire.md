@@ -81,8 +81,7 @@ Filter: nan
 
 ## 2024-103_educ_pol_20
 
-If a government policy or proposal would financially benefit the University of California system (i.e.
-the system of schools that includes UCLA, UC Berkeley, UCSD, etc), would you be more or less likely to support that proposal?
+If a government policy or proposal would financially benefit the University of California system (i.e. the system of schools that includes UCLA, UC Berkeley, UCSD, etc), would you be more or less likely to support that proposal?
 
 Filter: nan
 
@@ -281,8 +280,7 @@ Filter: nan
 
 ## 2024-103_media_fin_26
 
-Please indicate the extent to which you agree or disagree with the following statement: It is fair if some individuals achieve a high socioeconomic status (e.g.
-high education and income) due to their genetic endowments.
+Please indicate the extent to which you agree or disagree with the following statement: It is fair if some individuals achieve a high socioeconomic status (e.g. high education and income) due to their genetic endowments.
 
 Filter: nan
 
